@@ -1,12 +1,6 @@
 ---
-tipo: portada
-titulo: "Vínculos Fracturados"
+title: "Vínculos Fracturados"
 obra: "Vinculos-Fracturados"
-dg-publish: true
-dg-home: true
-dg-permalink: /
-tags:
-  - vf/meta
 ---
 
 # Vínculos Fracturados

@@ -1,123 +1,21 @@
 ---
-tipo: capitulo
 title: "Redefinición operativa: Derechos del Niño y neurociencia del apego"
-parte: "Parte-I"
-numero: "1.2"
-titulo: "Redefinición operativa: Derechos del Niño y neurociencia del apego"
 obra: "Vinculos-Fracturados"
-dg-publish: true
-dg-permalink: "/capitulos/1-2-redefinicion-operativa-derechos-del-nino-y-neurociencia-del-apego"
-ultima_actualizacion: "2026-09-18"
-version: "1.1"
+lastmod: 2026-09-18
 conocimiento: 80
-fuentes_integradas:
-  - "[[2023-Pinzon-Colunga-AP-derechos-humanos-ninez]]"
-  - "[[2025-Kamyshnyi-molecular-diagnostics-parental-alienation]]"
-  - "[[2023-Weidenslaufer-Lampert-Truffello-AP-Chile-derecho-comparado]]"
-  - "[[2026-Meland-parental-alienation-conditioned-love]]"
-  - "[[2026-Hine-Harman-PAB-prevalence-UK-young-adults]]"
-  - "[[2023-Anon-the-association-between-parental-attachment-a]]"
-  - "[[2021-Miralles-long-term-emotional-consequences-of-parental]]"
-  - "[[2026-Bai-profiling-harsh-parenting-and-the-longitudina]]"
-  - "[[2024-Zhu-joint-trajectories-of-depression-and-ruminati]]"
-  - "[[2017-Publico-sindrome-de-alienacion-parental-en-materia-fa]]"
-  - "[[2026-Roysland-Koskinen-PA-self-esteem-meta-ethnography]]"
-  - "[[2026-Alharbi-communication-strategies-to-improve-child-par]]"
-  - "[[2022-Verhaar-the-impact-of-parental-alienating-behaviours]]"
-  - "[[2022-Marques-how-do-family-court-judges-theorize-about-par]]"
-  - "[[2022-Tian-research-on-the-mechanism-of-parent-child-att]]"
-  - "[[2022-Nambiar-parental-alienation-case-series-from-india]]"
-  - "[[2022-Isaila-medical-legal-and-psychosocial-considerations]]"
-  - "[[2023-Leonetti-opposite-sides-of-the-same-coin-syndrome-evid]]"
-  - "[[2026-Aco-actos-de-violencia-o-acoso-sexual-de-un-traba]]"
-  - "[[2026-Juris-despido-disciplinario-en-casos-de-acoso-o-vio]]"
-  - "[[2026-Autor-acta-administrativa-de-investigacion-en-el-ju]]"
-  - "[[2025-Federal-recurso-denominado-incorrectamente-procede-re]]"
-  - "[[2026-Obstante-derecho-a-la-educacion-de-las-personas-trans]]"
-  - "[[2025-Na-social-determinants-of-health-and-suicide-rel]]"
-  - "[[2025-Anon-adverse-childhood-experiences-are-associated]]"
-  - "[[2026-Anon-prevalence-of-adverse-childhood-experience-it]]"
-  - "[[2008-Yates-nonsuicidal-self-injury-among]]"
-  - "[[2024-Han-current-approaches-addressing-oral-health-pra]]"
-  - "[[2022-Qin-life-events-mediate-the-prediction-of-parenta]]"
-  - "[[2021-Sun-prediction-of-parental-alienation-on-depressi]]"
-  - "[[2014-Lyon-eliciting-maltreated-and-nonmaltreated-childr]]"
-  - "[[2022-Lacey-item]]"
-  - "[[2024-Bauer-prevalence-and-risk-factors-of-gang-membershi]]"
-  - "[[2026-Anon-trapped-in-fire-a-qualitative-systematic-revi]]"
-  - "[[2020-Liu-the-impact-of-parental-remote-migration-and-p]]"
-  - "[[2022-Koukoulis-decisions-of-greek-courts-securing-the-right]]"
-  - "[[2016-Wyman-an-experimental-analysis-of-children-s-abilit]]"
-  - "[[2026-Conducta-despido-disciplinario-en-casos-de-acoso-o-vio]]"
-  - "[[2026-Trans-indemnizacion-por-dano-moral-para-calcular-el]]"
-  - "[[2026-Del-representacion-de-ninas-ninos-y-adolescentes]]"
-  - "[[2019-Anon-parental-alienation-coaching-and-the-best-int]]"
-  - "[[2026-De-compensacion-economica-para-determinar-sobre]]"
-  - "[[2025-Anon-item]]"
-  - "[[2026-Event-estandar-de-la-persona-observadora-razonable]]"
-  - "[[2026-Espaci-prueba-testimonial-en-el-procedimiento-labora]]"
-  - "[[2022-Cipric-the-future-of-divorce-support-is]]"
-  - "[[2002-Jacomb-predictors-of-refusal-to-participate-a-longit]]"
-  - "[[2019-O-Hara-coping-in-context-the-effects-of-long-term-re]]"
-  - "[[2014-Helland-long-shadows-a-prospective-study-of-predictor]]"
-  - "[[2026-Huang-associations-between-adverse-childhood-experi]]"
-  - "[[2011-Carrey-coasting-to-dsm-5-parental-alienation-syndrom]]"
-  - "[[2026-Graham-ptsd-and-cptsd-amongst-parents-subject-to-chi]]"
-  - "[[2024-Mcbride-online-assessment-in-young-children-challenge]]"
-  - "[[2018-Anon-an-objective-measure-of-splitting-in-parental]]"
-  - "[[2018-Anon-parental-alienating-behaviors-an-unacknowledg]]"
-  - "[[2022-Anon-international-perspective-on-guidelines-and-p]]"
-  - "[[2023-Anon-scholarly-rumors-citation-analysis-of-vast-mi]]"
-  - "[[2018-Anon-parental-alienation-syndrome-a-serious-form-o]]"
-  - "[[2013-Anon-parental-alienation-dsm-5-and-icd-11-response]]"
-  - "[[2016-Anon-parents-behaving-badly-gender-biases-in-the-p]]"
-  - "[[2013-Anon-searching-for-a-sense-of-purpose-the-role-of]]"
-  - "[[2012-Anon-parental-alienation-pa]]"
-  - "[[2015-Anon-symptom-checklist-90-revised-scores-in-adult]]"
-  - "[[2023-Anon-psychological-distress-in-young-chilean-adult]]"
-  - "[[2012-Anon-the-parental-alienation-debate-belongs-in-the]]"
-  - "[[2022-Anon-developmental-psychology-and-the-scientific-s]]"
-  - "[[2011-Anon-description-of-the-parental-alienation-syndro]]"
-  - "[[2007-Anon-acrimonious-contact-disputes-and-so-called-pa]]"
-  - "[[2014-Anon-a-case-of-parental-alienation]]"
-  - "[[2022-Anon-definitions-and-terminology-regarding-child-a]]"
-  - "[[2014-Anon-caring-for-children-in-the-face-of-parental-a]]"
-  - "[[2010-Anon-parental-alienation-syndrome-and-the-family-c]]"
-  - "[[2017-Anon-parental-alienation-and-the-controversy-surro]]"
-  - "[[2020-Anon-medical-neglect-allegations-in-the-context-of]]"
-  - "[[2020-Anon-stepparents-attachment-orientation-parental-g]]"
-  - "[[2025-Anon-parental-alienation-syndrome-pas-in-india-a-c]]"
-  - "[[2024-Anon-role-of-narcissism-in-parental-alienation-phe]]"
-  - "[[2020-Anon-abnormal-asymmetry-of-thalamic-volume-moderat]]"
-  - "[[2017-Anon-parental-alienation-child-psychological-abuse]]"
-  - "[[2010-Anon-the-need-for-professional-debate-about-pas]]"
-estado: publicado
-resumen_ejecutivo: "Tras la genealogía del SAP ([[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria]]), este capítulo propone un marco operativo que no depende de sindromizar al menor: el interés superior y los derechos de la Convención sobre los Derechos del Niño (vínculo, ser oído, integridad) como criterio normativo, y la neurociencia del apego/estrés como lenguaje del daño. Distingue rechazo justificado, distanciamiento y alienación/interferencia; rechaza tanto el vacío diagnóstico como el veto político al fenómeno."
-preguntas_abiertas:
-  - "¿Qué batería mínima forense operacionaliza 'interés superior' sin convertir al menor en prueba?"
-  - "¿Qué biomarcadores, si alguno, alcanzarían umbral útil sin medicalizar el litigio?"
-  - "¿Cómo articular el derecho a ser oído cuando la lealtad forzada distorsiona el testimonio?"
 ejes:
-  - neuro
-  - derecho
-  - menor
 nivel_evidencia_global: media
-tags:
-  - vf/capitulo
-  - vf/menor
-  - vf/neuro
-  - vf/derecho
 ---
 
 # Capítulo 1.2. Redefinición operativa: Derechos del Niño y neurociencia del apego
 
 <!-- sync:version-badge -->
-> **v1.1** · conocimiento **23** · actualizado **2026-09-18**
+> **v1.1** · conocimiento **80** · actualizado **2026-09-18**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
-El problema no es «salvar el SAP» ni «borrar la alienación»: es **definir un marco usable** cuando un menor rechaza o pierde a un progenitor en alto conflicto. Este capítulo desplaza el centro desde la etiqueta sindrómica hacia dos pilares: (1) el menor como titular de derechos (CDN / interés superior, integridad, mantenimiento de relaciones salvo perjuicio); (2) el apego y el estrés crónico como gramática del daño. La genealogía queda en [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria]]; aquí se fija el **vocabulario operativo** del Libro Vivo.
+El problema no es «salvar el SAP» ni «borrar la alienación»: es **definir un marco usable** cuando un menor rechaza o pierde a un progenitor en alto conflicto. Este capítulo desplaza el centro desde la etiqueta sindrómica hacia dos pilares: (1) el menor como titular de derechos (CDN / interés superior, integridad, mantenimiento de relaciones salvo perjuicio); (2) el apego y el estrés crónico como gramática del daño. La genealogía queda en [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria|Capítulo 1.1. Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria]]; aquí se fija el **vocabulario operativo** del Libro Vivo.
 
 ## Pregunta guía
 
@@ -157,7 +55,7 @@ Kamyshnyi et al. recuerdan que PAS **no** es entidad separada en DSM-5-TR/CIE-11
 
 **Daño asociado a conductas alienantes.** En jóvenes adultos del Reino Unido, mayor exposición a PABs correlacionó con rechazo parental, menor aceptación y más TEPT, depresión e ideación suicida ([@hine2026pab]; [[2026-Hine-Harman-PAB-prevalence-UK-young-adults]]). Sirve como ancla empírica de que las *conductas* importan; no como prevalencia de «síndrome grave».
 
-**Estrés crónico como puente biológico.** La revisión de Kamyshnyi propone paneles (HPA, inflamación, epigenética) extrapolados de otros estrés pediátricos, con evidencia longitudinal directa aún escasa ([@kamyshnyi2025mol]; [[2025-Kamyshnyi-molecular-diagnostics-parental-alienation]]). En este libro: hipótesis de trabajo para [[Cap-02-01-Trauma-Ruptura-Vinculo]], no prueba forense actual.
+**Estrés crónico como puente biológico.** La revisión de Kamyshnyi propone paneles (HPA, inflamación, epigenética) extrapolados de otros estrés pediátricos, con evidencia longitudinal directa aún escasa ([@kamyshnyi2025mol]; [[2025-Kamyshnyi-molecular-diagnostics-parental-alienation]]). En este libro: hipótesis de trabajo para [[Cap-02-01-Trauma-Ruptura-Vinculo|Capítulo 2.1. Trauma de ruptura forzada: apego, estrés y neurodesarrollo]], no prueba forense actual.
 
 **Doble realidad clínica.** Meland insiste en no negar IPV real ni negar alegaciones falsas usadas para alienar ([@meland2026love]; [[2026-Meland-parental-alienation-conditioned-love]]). El marco CDN + apego **exige** ese doble rechazo.
 
@@ -179,7 +77,7 @@ La redefinición operativa de esta obra: **evaluar conductas y daño**, no litig
 
 ## 4. Impacto en el menor
 
-El menor necesita: (a) seguridad frente al maltrato; (b) continuidad de vínculos seguros; (c) un relato biográfico que no exija traicionar a un padre/madre como precio del afecto. Cuando el Estado elige mal, produce **victimización secundaria** —tema de [[Cap-04-01-Medidas-Cautelares-Sesgo]].
+El menor necesita: (a) seguridad frente al maltrato; (b) continuidad de vínculos seguros; (c) un relato biográfico que no exija traicionar a un padre/madre como precio del afecto. Cuando el Estado elige mal, produce **victimización secundaria** —tema de [[Cap-04-01-Medidas-Cautelares-Sesgo|Capítulo 4.1. Medidas cautelares, presunción y victimización institucional]].
 
 ---
 
@@ -194,8 +92,8 @@ La *damnatio memoriae* —borrar el nombre— choca con el derecho del niño a u
 1. Usar **PCCP / interferencia / PABs / gatekeeping** como hipótesis evaluables.  
 2. Anclar decisiones al **interés superior + integridad + vínculos seguros**.  
 3. Separar rechazo justificado de inducción.  
-4. Tratar biomarcadores como agenda de [[Cap-02-01-Trauma-Ruptura-Vinculo]], no como veredicto.  
-5. Puente: [[Cap-03-01-Lealtad-Memoria-Gatekeeping]] (mecanismos) · [[Cap-04-01-Medidas-Cautelares-Sesgo]] (Estado).
+4. Tratar biomarcadores como agenda de [[Cap-02-01-Trauma-Ruptura-Vinculo|Capítulo 2.1. Trauma de ruptura forzada: apego, estrés y neurodesarrollo]], no como veredicto.  
+5. Puente: [[Cap-03-01-Lealtad-Memoria-Gatekeeping|Capítulo 3.1. Lealtad forzada, manipulación de la memoria y gatekeeping]] (mecanismos) · [[Cap-04-01-Medidas-Cautelares-Sesgo|Capítulo 4.1. Medidas cautelares, presunción y victimización institucional]] (Estado).
 
 ## Preguntas abiertas
 
@@ -239,7 +137,7 @@ _Detalle en digests `01-Fuentes/papers/`. No se inventan hallazgos ausentes del 
 
 ## Enlaces relacionados
 
-- [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria]]
-- [[Cap-02-01-Trauma-Ruptura-Vinculo]]
+- [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria|Capítulo 1.1. Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria]]
+- [[Cap-02-01-Trauma-Ruptura-Vinculo|Capítulo 2.1. Trauma de ruptura forzada: apego, estrés y neurodesarrollo]]
 - [[tpl-capitulo-nota]]
 - [[ficha-tecnica-obra]]

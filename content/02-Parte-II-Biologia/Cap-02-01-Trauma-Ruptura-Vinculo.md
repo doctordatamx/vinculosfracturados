@@ -1,122 +1,21 @@
 ---
-tipo: capitulo
 title: "Trauma de ruptura forzada: apego, estrés y neurodesarrollo"
-parte: "Parte-II"
-numero: "2.1"
-titulo: "Trauma de ruptura forzada: apego, estrés y neurodesarrollo"
 obra: "Vinculos-Fracturados"
-dg-publish: true
-dg-permalink: "/capitulos/2-1-trauma-de-ruptura-forzada-apego-estres-y-neurodesarrollo"
-ultima_actualizacion: "2026-09-18"
-version: "1.1"
+lastmod: 2026-09-18
 conocimiento: 80
-fuentes_integradas:
-  - "[[2026-Hine-Harman-PAB-prevalence-UK-young-adults]]"
-  - "[[2026-Roysland-Koskinen-PA-self-esteem-meta-ethnography]]"
-  - "[[2025-Lim-Kim-parental-alienation-adolescent-depression-Korea]]"
-  - "[[2025-Kamyshnyi-molecular-diagnostics-parental-alienation]]"
-  - "[[2023-Pinzon-Colunga-AP-derechos-humanos-ninez]]"
-  - "[[2023-Anon-the-association-between-parental-attachment-a]]"
-  - "[[2021-Miralles-long-term-emotional-consequences-of-parental]]"
-  - "[[2026-Bai-profiling-harsh-parenting-and-the-longitudina]]"
-  - "[[2024-Zhu-joint-trajectories-of-depression-and-ruminati]]"
-  - "[[2026-Anon-parental-gatekeeping-scale-revised-adaptation]]"
-  - "[[2017-Publico-sindrome-de-alienacion-parental-en-materia-fa]]"
-  - "[[2026-Alharbi-communication-strategies-to-improve-child-par]]"
-  - "[[2022-Verhaar-the-impact-of-parental-alienating-behaviours]]"
-  - "[[2025-Singh-parental-interference-and-marital-stability-a]]"
-  - "[[2022-Tian-research-on-the-mechanism-of-parent-child-att]]"
-  - "[[2024-Carbone-fatherhood-family-law-and-the-crisis-of-boys]]"
-  - "[[2022-Nambiar-parental-alienation-case-series-from-india]]"
-  - "[[2026-Obstante-derecho-a-la-educacion-de-las-personas-trans]]"
-  - "[[2024-Mcbride-online-assessment-in-young-children-challenge]]"
-  - "[[2018-Anon-parental-alienation-syndrome-a-serious-form-o]]"
-  - "[[2023-Anon-psychological-distress-in-young-chilean-adult]]"
-  - "[[2022-Anon-developmental-psychology-and-the-scientific-s]]"
-  - "[[2025-Li-adverse-childhood-experiences-contribute-to-b]]"
-  - "[[2025-Anon-adverse-childhood-experiences-are-associated]]"
-  - "[[2026-Anon-prevalence-of-adverse-childhood-experience-it]]"
-  - "[[2008-Yates-nonsuicidal-self-injury-among]]"
-  - "[[2024-Han-current-approaches-addressing-oral-health-pra]]"
-  - "[[2003-Anon-family-and-legal-indicators-of-child-adjustme]]"
-  - "[[2022-Qin-life-events-mediate-the-prediction-of-parenta]]"
-  - "[[2021-Sun-prediction-of-parental-alienation-on-depressi]]"
-  - "[[2026-Hald-divorce-conflict-and-health-across-the-divorc]]"
-  - "[[2022-Lacey-item]]"
-  - "[[2022-Marques-how-do-family-court-judges-theorize-about-par]]"
-  - "[[2024-Bauer-prevalence-and-risk-factors-of-gang-membershi]]"
-  - "[[2007-Anon-the-10-item-remembered-relationship-with-pare]]"
-  - "[[2026-Anon-parental-mental-health-and-union-dissolution]]"
-  - "[[2022-Isaila-medical-legal-and-psychosocial-considerations]]"
-  - "[[2020-Liu-the-impact-of-parental-remote-migration-and-p]]"
-  - "[[2015-Verrocchio-perceived-parental-functioning-self-esteem-an]]"
-  - "[[2023-Leonetti-opposite-sides-of-the-same-coin-syndrome-evid]]"
-  - "[[2019-Verrocchio-depression-and-quality-of-life-in-adults-perc]]"
-  - "[[2022-Koukoulis-decisions-of-greek-courts-securing-the-right]]"
-  - "[[2026-Aco-actos-de-violencia-o-acoso-sexual-de-un-traba]]"
-  - "[[2026-Juris-despido-disciplinario-en-casos-de-acoso-o-vio]]"
-  - "[[2026-Autor-acta-administrativa-de-investigacion-en-el-ju]]"
-  - "[[2025-Federal-recurso-denominado-incorrectamente-procede-re]]"
-  - "[[2026-Conducta-despido-disciplinario-en-casos-de-acoso-o-vio]]"
-  - "[[2026-Trans-indemnizacion-por-dano-moral-para-calcular-el]]"
-  - "[[2026-Del-representacion-de-ninas-ninos-y-adolescentes]]"
-  - "[[2019-Anon-parental-alienation-coaching-and-the-best-int]]"
-  - "[[2026-De-compensacion-economica-para-determinar-sobre]]"
-  - "[[2025-Anon-item]]"
-  - "[[2026-Event-estandar-de-la-persona-observadora-razonable]]"
-  - "[[2026-Espaci-prueba-testimonial-en-el-procedimiento-labora]]"
-  - "[[2002-Jacomb-predictors-of-refusal-to-participate-a-longit]]"
-  - "[[2026-Huang-associations-between-adverse-childhood-experi]]"
-  - "[[2011-Carrey-coasting-to-dsm-5-parental-alienation-syndrom]]"
-  - "[[2024-Deng-elderly-s-homesickness-development-of-elderly]]"
-  - "[[2026-Graham-ptsd-and-cptsd-amongst-parents-subject-to-chi]]"
-  - "[[2018-Anon-parental-alienating-behaviors-an-unacknowledg]]"
-  - "[[2023-Anon-scholarly-rumors-citation-analysis-of-vast-mi]]"
-  - "[[2016-Anon-parents-behaving-badly-gender-biases-in-the-p]]"
-  - "[[2013-Anon-searching-for-a-sense-of-purpose-the-role-of]]"
-  - "[[2012-Anon-parental-alienation-pa]]"
-  - "[[2015-Anon-symptom-checklist-90-revised-scores-in-adult]]"
-  - "[[2007-Anon-acrimonious-contact-disputes-and-so-called-pa]]"
-  - "[[2020-Anon-measuring-the-difference-between-parental-ali]]"
-  - "[[2022-Anon-definitions-and-terminology-regarding-child-a]]"
-  - "[[2014-Anon-caring-for-children-in-the-face-of-parental-a]]"
-  - "[[2017-Anon-parental-alienation-and-the-controversy-surro]]"
-  - "[[2012-Anon-dysfunctional-remembered-parenting-in-oncolog]]"
-  - "[[2020-Anon-stepparents-attachment-orientation-parental-g]]"
-  - "[[2025-Anon-parental-alienation-syndrome-pas-in-india-a-c]]"
-  - "[[2024-Anon-role-of-narcissism-in-parental-alienation-phe]]"
-  - "[[2020-Anon-abnormal-asymmetry-of-thalamic-volume-moderat]]"
-  - "[[2010-Anon-the-need-for-professional-debate-about-pas]]"
-  - "[[2024-Anon-arab-mothers-viewpoints-why-their-children-ar]]"
-  - "[[1984-Anon-a-young-child-who-witnessed-her-mother-s-murd]]"
-  - "[[2017-Anon-understanding-the-reality-of-parental-alienat]]"
-  - "[[2012-Anon-parental-alienation-syndrome-pas]]"
-estado: publicado
-resumen_ejecutivo: "Este capítulo reúne la evidencia del vault sobre el daño asociado a conductas alienantes y a la alienación vivida en la infancia: correlatos de TEPT, depresión e ideación suicida (PABs en jóvenes UK); mediación depresión parental→adolescente vía alienación percibida (Corea); secuelas cualitativas en autoestima y confianza (meta-etnografía); y la hipótesis de estrés crónico/biomarcadores. No afirma un 'síndrome cerebral' cerrado: describe un entorno de apego sabotado."
-preguntas_abiertas:
-  - "¿Qué diseños longitudinales distinguirían PABs de otros adversidades infantiles?"
-  - "¿Hay firmas biológicas específicas o solo carga alostática inespecífica?"
-  - "¿Cómo evitar patologizar al menor al documentar el trauma?"
 ejes:
-  - neuro
-  - menor
 nivel_evidencia_global: media
-tags:
-  - vf/capitulo
-  - vf/menor
-  - vf/neuro
-  - evidencia/media
 ---
 
 # Capítulo 2.1. Trauma de ruptura forzada: apego, estrés y neurodesarrollo
 
 <!-- sync:version-badge -->
-> **v1.1** · conocimiento **22** · actualizado **2026-09-18**
+> **v1.1** · conocimiento **80** · actualizado **2026-09-18**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
-Cuando un vínculo significativo se sabotea —por denigración crónica, interrupción de contacto o lealtad coercitiva— el menor no «elige un bando»: habita un entorno de **estrés relacional**. Este capítulo organiza lo que el vault ya sostiene: asociaciones con síntomas de trauma y depresión, trayectorias adultas de desconfianza y baja autoestima, y una agenda biológica aún emergente. Marco operativo: [[Cap-01-02-Redefinicion-CDN-Neurociencia]].
+Cuando un vínculo significativo se sabotea —por denigración crónica, interrupción de contacto o lealtad coercitiva— el menor no «elige un bando»: habita un entorno de **estrés relacional**. Este capítulo organiza lo que el vault ya sostiene: asociaciones con síntomas de trauma y depresión, trayectorias adultas de desconfianza y baja autoestima, y una agenda biológica aún emergente. Marco operativo: [[Cap-01-02-Redefinicion-CDN-Neurociencia|Capítulo 1.2. Redefinición operativa: Derechos del Niño y neurociencia del apego]].
 
 ## Pregunta guía
 
@@ -176,7 +75,7 @@ El menor no es el «enfermo del SAP»: es el **organismo que paga** el conflicto
 
 ## 5. Laboratorio literario
 
-El árbol a la sombra de sus raíces ([@roysland2026meta]; [[2026-Roysland-Koskinen-PA-self-esteem-meta-ethnography]]) nombra lo que la clínica mide a duras penas: crecer sin luz de un vínculo. Ampliar en [[Cap-06-01-Medea-Damnatio-Rehen]].
+El árbol a la sombra de sus raíces ([@roysland2026meta]; [[2026-Roysland-Koskinen-PA-self-esteem-meta-ethnography]]) nombra lo que la clínica mide a duras penas: crecer sin luz de un vínculo. Ampliar en [[Cap-06-01-Medea-Damnatio-Rehen|Capítulo 6.1. Laboratorio literario: Medea, damnatio memoriae y el menor como rehén]].
 
 ---
 
@@ -185,7 +84,7 @@ El árbol a la sombra de sus raíces ([@roysland2026meta]; [[2026-Roysland-Koski
 1. Documentar **conductas + síntomas + historia de apego**, no cazar el síndrome.  
 2. Tratar PABs/interferencia como posibles adversidades relacionales.  
 3. Reservar biomarcadores a investigación, no a veredictos.  
-4. Puente: [[Cap-03-01-Lealtad-Memoria-Gatekeeping]] · [[Cap-01-02-Redefinicion-CDN-Neurociencia]].
+4. Puente: [[Cap-03-01-Lealtad-Memoria-Gatekeeping|Capítulo 3.1. Lealtad forzada, manipulación de la memoria y gatekeeping]] · [[Cap-01-02-Redefinicion-CDN-Neurociencia|Capítulo 1.2. Redefinición operativa: Derechos del Niño y neurociencia del apego]].
 
 ## Preguntas abiertas
 
@@ -229,6 +128,6 @@ _Detalle en digests `01-Fuentes/papers/`. No se inventan hallazgos ausentes del 
 
 ## Enlaces relacionados
 
-- [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria]]
-- [[Cap-01-02-Redefinicion-CDN-Neurociencia]]
-- [[Cap-03-01-Lealtad-Memoria-Gatekeeping]]
+- [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria|Capítulo 1.1. Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria]]
+- [[Cap-01-02-Redefinicion-CDN-Neurociencia|Capítulo 1.2. Redefinición operativa: Derechos del Niño y neurociencia del apego]]
+- [[Cap-03-01-Lealtad-Memoria-Gatekeeping|Capítulo 3.1. Lealtad forzada, manipulación de la memoria y gatekeeping]]

@@ -1,122 +1,16 @@
 ---
-tipo: capitulo
 title: "Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria"
-parte: "Parte-I"
-numero: "1.1"
-titulo: "Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria"
 obra: "Vinculos-Fracturados"
-dg-publish: true
-dg-permalink: "/capitulos/1-1-genealogia-critica-del-sap-gardner-a-la-interferencia-parental-y-l"
-ultima_actualizacion: "2026-09-18"
-version: "0.13"
+lastmod: 2026-09-18
 conocimiento: 80
-fuentes_integradas:
-  - "[[2026-Hine-Harman-PAB-prevalence-UK-young-adults]]"
-  - "[[2026-Meland-parental-alienation-conditioned-love]]"
-  - "[[2026-Roysland-Koskinen-PA-self-esteem-meta-ethnography]]"
-  - "[[2026-Head-retraction-suppression-PA-scholarship]]"
-  - "[[2025-Lim-Kim-parental-alienation-adolescent-depression-Korea]]"
-  - "[[2025-Kamyshnyi-molecular-diagnostics-parental-alienation]]"
-  - "[[2025-Reis-parental-gatekeeping-parenting-scoping-review]]"
-  - "[[2025-Guyette-Harris-PCCP-strained-parent-child]]"
-  - "[[2002-Bolanos-SAP-descripcion-abordajes-psicolegales]]"
-  - "[[2023-Weidenslaufer-Lampert-Truffello-AP-Chile-derecho-comparado]]"
-  - "[[2023-Pinzon-Colunga-AP-derechos-humanos-ninez]]"
-  - "[[2022-Marques-how-do-family-court-judges-theorize-about-par]]"
-  - "[[2022-Isaila-medical-legal-and-psychosocial-considerations]]"
-  - "[[2023-Leonetti-opposite-sides-of-the-same-coin-syndrome-evid]]"
-  - "[[2026-Aco-actos-de-violencia-o-acoso-sexual-de-un-traba]]"
-  - "[[2026-Juris-despido-disciplinario-en-casos-de-acoso-o-vio]]"
-  - "[[2026-Autor-acta-administrativa-de-investigacion-en-el-ju]]"
-  - "[[2025-Federal-recurso-denominado-incorrectamente-procede-re]]"
-  - "[[2026-Conducta-despido-disciplinario-en-casos-de-acoso-o-vio]]"
-  - "[[2026-Del-representacion-de-ninas-ninos-y-adolescentes]]"
-  - "[[2019-Anon-parental-alienation-coaching-and-the-best-int]]"
-  - "[[2026-De-compensacion-economica-para-determinar-sobre]]"
-  - "[[2026-Event-estandar-de-la-persona-observadora-razonable]]"
-  - "[[2026-Espaci-prueba-testimonial-en-el-procedimiento-labora]]"
-  - "[[2018-Anon-parental-alienating-behaviors-an-unacknowledg]]"
-  - "[[2022-Anon-international-perspective-on-guidelines-and-p]]"
-  - "[[2011-Anon-an-introduction-to-parental-alienation-syndro]]"
-  - "[[2022-Anon-definitions-and-terminology-regarding-child-a]]"
-  - "[[2025-Na-social-determinants-of-health-and-suicide-rel]]"
-  - "[[2026-Anon-artificial-intelligence-in-forensic-medicine]]"
-  - "[[2025-Anon-gender-based-violence-against-migrant-women-f]]"
-  - "[[2026-Anon-child-sexual-abuse-allegations-in-child-custo]]"
-  - "[[2014-Lyon-eliciting-maltreated-and-nonmaltreated-childr]]"
-  - "[[2026-Denne-characteristics-of-exonerated-cases-of-child]]"
-  - "[[2026-Anon-trapped-in-fire-a-qualitative-systematic-revi]]"
-  - "[[2026-Anon-an-archival-analysis-of-326-child-sexual-abus]]"
-  - "[[2016-Wyman-an-experimental-analysis-of-children-s-abilit]]"
-  - "[[2025-Anon-treatment-experiences-of-women-diagnosed-with]]"
-  - "[[2022-Cipric-the-future-of-divorce-support-is]]"
-  - "[[2019-O-Hara-coping-in-context-the-effects-of-long-term-re]]"
-  - "[[2014-Helland-long-shadows-a-prospective-study-of-predictor]]"
-  - "[[2018-Anon-an-objective-measure-of-splitting-in-parental]]"
-  - "[[2013-Anon-parental-alienation-dsm-5-and-icd-11-response]]"
-  - "[[2013-Anon-parental-alienation-syndrome-pas-unknown-in-m]]"
-  - "[[2012-Anon-the-parental-alienation-debate-belongs-in-the]]"
-  - "[[2011-Anon-description-of-the-parental-alienation-syndro]]"
-  - "[[2017-Anon-not-a]]"
-  - "[[2014-Anon-a-case-of-parental-alienation]]"
-  - "[[2010-Anon-parental-alienation-syndrome-and-the-family-c]]"
-  - "[[2024-Anon-addressing-parental-gatekeeping-in-early-inte]]"
-  - "[[2020-Anon-medical-neglect-allegations-in-the-context-of]]"
-  - "[[2019-Anon-intensive-oversight-of-youth-residential-trea]]"
-  - "[[2017-Anon-parental-alienation-child-psychological-abuse]]"
-  - "[[2018-Anon-commentary-on-an-objective-measure-of-splitti]]"
-  - "[[2014-Modecki-latent-profiles-of-nonresidential-father-enga]]"
-  - "[[2022-Anon-remote-consent-approaches-for-mobile-phone-su]]"
-  - "[[2024-Anon-item]]"
-  - "[[2012-Ortega-alienacion-parental-ensayo-sobre-su-trascende]]"
-  - "[[2025-Anon-a-nationwide-forensic-case-series-of-femicide]]"
-  - "[[2019-Zahl-examining-perinatal-subdural-haematoma-as-an]]"
-  - "[[2013-Leung-physiological-striae-atrophicae-of-adolescenc]]"
-  - "[[2023-Payne-elevations-in-blood-pressure-associated-with]]"
-  - "[[2011-Block-item]]"
-  - "[[2024-Anon-for-exposed-and-deserted-young-children-resea]]"
-  - "[[2025-Anon-experiences-of-gender-based-violence-among-wo]]"
-  - "[[2021-Anon-psychological-impact-of-being-wrongfully-accu]]"
-  - "[[2024-Emezue-risky-weapon-carrying-behaviors-youth-violenc]]"
-  - "[[2005-Anon-multi-parent-families-as]]"
-  - "[[2002-Anon-parental-alienation-and-the-courts]]"
-  - "[[2003-Anon-parental-alignments-and-rejection-an-empirica]]"
-  - "[[2005-Anon-why-don-t-they-just-get-married-barriers-to-m]]"
-  - "[[2012-Anon-reducing-interparental-conflict-among-parents]]"
-  - "[[1991-Buchanan-caught-between-parents-adolescents-experience]]"
-  - "[[1991-Buchanan-caught-between-parents-adolescents-experience-2]]"
-  - "[[2025-Boeri-social-justice-with-harm-reduction-approaches]]"
-  - "[[2014-Barrow-context-and-opportunity-multiple-perspectives]]"
-  - "[[2022-Boyd-mothers-who-use-drugs-closing-the-gaps-in-har]]"
-  - "[[2014-Diaz-differential-utilization-of-primary-health-ca]]"
-  - "[[2012-Anon-gender-responsive-programs-in-u-s-prisons-imp]]"
-  - "[[2022-Violi-nonresident-fathers-voice-marginalized-disemp]]"
-estado: publicado
-resumen_ejecutivo: "Este capítulo reconstruye la trayectoria del concepto de alienación parental desde el Parental Alienation Syndrome (SAP) de Richard Gardner hasta los marcos actuales de interferencia parental, resist-refuse dynamics (RRD), parent-child contact problems (PCCP) y violencia vicaria. Primera oleada empírica internacional (PABs, PCCP, gatekeeping, secuelas) más tres anclas hispanohablantes: recepción psico-legal del SAP (Bolaños 2002), mapa de derecho comparado Chile/España/CEDAW (BCN 2023) y marco de derechos humanos de la niñez (Pinzón 2023). Distingue el núcleo clínico-relacional de su encapsulado sindrómico y de las campañas que lo desacreditan o lo abusan."
-preguntas_abiertas:
-  - "¿Qué criterios operativos (no sindrómicos) permiten distinguir alienación de rechazo justificado por maltrato?"
-  - "¿Cómo medir el impacto neurodesarrollativo de la ruptura forzada de vínculo sin patologizar al menor?"
-  - "¿Qué asimetrías normativas incentivan la denuncia falsa o la negación sistemática de la alienación?"
-  - "¿Puede el concepto de violencia vicaria articularse con la evidencia de interferencia parental sin convertirse en etiqueta unívoca de género?"
 ejes:
-  - forense
-  - derecho
-  - politica
-  - neuro
 nivel_evidencia_global: controversia
-tags:
-  - vf/capitulo
-  - vf/menor
-  - vf/forense
-  - vf/derecho
-  - vf/politica
-  - evidencia/controversia
 ---
 
 # Capítulo 1.1. Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria
 
 <!-- sync:version-badge -->
-> **v0.13** · conocimiento **28** · actualizado **2026-09-18**
+> **v0.13** · conocimiento **80** · actualizado **2026-09-18**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo

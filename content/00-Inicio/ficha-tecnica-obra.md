@@ -1,18 +1,12 @@
 ---
-tipo: ficha-tecnica
-titulo: "Ficha técnica — Vínculos Fracturados"
+title: "Ficha técnica — Vínculos Fracturados"
 obra: "Vínculos Fracturados: Biología, Psique y Derecho ante la Alienación Parental y la Violencia Vicaria"
 subtitulo_corto: "El menor como rehén"
 fecha: "2026-08-09"
 version_obra: "0.1.0"
-estado: "fase-1"
-dg-publish: true
-tags:
-  - vf/meta
-  - vf/indice
 ---
 
-# Ficha técnica y metadatos de la obra
+# Ficha técnica — Vínculos Fracturados
 
 ## Identidad
 
@@ -82,17 +76,17 @@ Obra interdisciplinaria que analiza cómo el **menor es instrumentalizado** en d
 
 | ID | Nota | Estado |
 |----|------|--------|
-| [[Cap-04-02-Jurisprudencia-Mexicana-SCJN]] | Jurisprudencia mexicana (SCJN) | **v1.0** |
-| [[Cap-04-03-IPV-Custodia-Denuncias]] | IPV, custodia y denuncias | **v1.0** |
-| [[Cap-03-03-Alto-Conflicto-Terapia-Reunificacion]] | Alto conflicto / terapia / reunificación | **v1.0** |
-| [[Cap-02-02-Evaluacion-Medicion-PABs]] | Evaluación y medición PABs | **v1.0** |
-| [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria]] | Genealogía crítica SAP → interferencia → vicaria | **actualizado** |
-| [[Cap-01-02-Redefinicion-CDN-Neurociencia]] | Redefinición CDN + apego | **actualizado** |
-| [[Cap-02-01-Trauma-Ruptura-Vinculo]] | Trauma de ruptura forzada | **actualizado** |
-| [[Cap-03-01-Lealtad-Memoria-Gatekeeping]] | Lealtad, memoria, gatekeeping | **actualizado** |
-| [[Cap-04-01-Medidas-Cautelares-Sesgo]] | Cautelares y victimización institucional | **actualizado** |
-| [[Cap-05-01-Asimetrias-Denuncia-Dogma]] | Asimetrías y dogma | **actualizado** |
-| [[Cap-06-01-Medea-Damnatio-Rehen]] | Laboratorio literario | **v1.0** |
+| [[Cap-04-02-Jurisprudencia-Mexicana-SCJN|Capítulo 4.2. Jurisprudencia mexicana (SCJN): custodia, violencia familiar e interés superior]] | Jurisprudencia mexicana (SCJN) | **v1.0** |
+| [[Cap-04-03-IPV-Custodia-Denuncias|Capítulo 4.3. Violencia de pareja, custodia y denuncias: protección, instrumentalización y doble riesgo]] | IPV, custodia y denuncias | **v1.0** |
+| [[Cap-03-03-Alto-Conflicto-Terapia-Reunificacion|Capítulo 3.3. Alto conflicto, terapia familiar y reunificación]] | Alto conflicto / terapia / reunificación | **v1.0** |
+| [[Cap-02-02-Evaluacion-Medicion-PABs|Capítulo 2.2. Evaluación y medición: comportamientos parentales alienantes, escalas y peritaje]] | Evaluación y medición PABs | **v1.0** |
+| [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria|Capítulo 1.1. Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria]] | Genealogía crítica SAP → interferencia → vicaria | **actualizado** |
+| [[Cap-01-02-Redefinicion-CDN-Neurociencia|Capítulo 1.2. Redefinición operativa: Derechos del Niño y neurociencia del apego]] | Redefinición CDN + apego | **actualizado** |
+| [[Cap-02-01-Trauma-Ruptura-Vinculo|Capítulo 2.1. Trauma de ruptura forzada: apego, estrés y neurodesarrollo]] | Trauma de ruptura forzada | **actualizado** |
+| [[Cap-03-01-Lealtad-Memoria-Gatekeeping|Capítulo 3.1. Lealtad forzada, manipulación de la memoria y gatekeeping]] | Lealtad, memoria, gatekeeping | **actualizado** |
+| [[Cap-04-01-Medidas-Cautelares-Sesgo|Capítulo 4.1. Medidas cautelares, presunción y victimización institucional]] | Cautelares y victimización institucional | **actualizado** |
+| [[Cap-05-01-Asimetrias-Denuncia-Dogma|Capítulo 5.1. Asimetrías punitivas, denuncia instrumental y dogma de política pública]] | Asimetrías y dogma | **actualizado** |
+| [[Cap-06-01-Medea-Damnatio-Rehen|Capítulo 6.1. Laboratorio literario: Medea, damnatio memoriae y el menor como rehén]] | Laboratorio literario | **v1.0** |
 | [[ficha-tecnica-obra]] | Esta ficha | Activa |
 | [[tpl-capitulo-nota]] | Plantilla estándar | Activa |
 

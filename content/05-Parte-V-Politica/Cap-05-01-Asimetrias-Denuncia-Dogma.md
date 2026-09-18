@@ -1,123 +1,21 @@
 ---
-tipo: capitulo
 title: "Asimetrías punitivas, denuncia instrumental y dogma de política pública"
-parte: "Parte-V"
-numero: "5.1"
-titulo: "Asimetrías punitivas, denuncia instrumental y dogma de política pública"
 obra: "Vinculos-Fracturados"
-dg-publish: true
-dg-permalink: "/capitulos/5-1-asimetrias-punitivas-denuncia-instrumental-y-dogma-de-politica-pub"
-ultima_actualizacion: "2026-09-18"
-version: "1.1"
+lastmod: 2026-09-18
 conocimiento: 80
-fuentes_integradas:
-  - "[[2023-Weidenslaufer-Lampert-Truffello-AP-Chile-derecho-comparado]]"
-  - "[[2026-Meland-parental-alienation-conditioned-love]]"
-  - "[[2026-Head-retraction-suppression-PA-scholarship]]"
-  - "[[2026-Hine-Harman-PAB-prevalence-UK-young-adults]]"
-  - "[[2023-Bradshaw-intimate-partner-violence-survivors-perspecti]]"
-  - "[[2026-Derech-derecho-a-la-reinsercion-social-no-constituye]]"
-  - "[[2025-Tutty-item]]"
-  - "[[2016-Anon-child-affected-by-parental-relationship-distr]]"
-  - "[[2018-Gennari-intimate-partner-violence-and-child-custody-e]]"
-  - "[[2024-Tutty-item]]"
-  - "[[2023-Fares-parental-alienation-in-lebanon-a-case-report]]"
-  - "[[2025-Spearman-navigating-protective-precarity-a-thematic-an]]"
-  - "[[2020-Moon-custody-evaluation-in-high-conflict-situation]]"
-  - "[[2024-Anon-a-qualitative-study-on-how-intimate-partner-v]]"
-  - "[[2023-Anon-intimate-partner-violence-child-custody-and-f]]"
-  - "[[2025-Anon-adverse-childhood-experiences-and-loneliness]]"
-  - "[[2025-O-suspension-condicional-del-proceso-estandar-p]]"
-  - "[[2023-Meland-parental-alienation-a-valid-experience]]"
-  - "[[2015-Anon-a-self-report-measure-of-legal-and-administra]]"
-  - "[[2026-Anon-a-systematic-review-of-qualitative-studies-ex]]"
-  - "[[2021-Anon-jurors-gender-and-their-fear-of-false-child-s]]"
-  - "[[2025-Molina-women-s-economic-independence-and-physical-in]]"
-  - "[[2025-Manzouri-factors-affecting-domestic-violence-against-w]]"
-  - "[[2025-Umuziga-predicting-and-preventing-intimate-partner-ho]]"
-  - "[[2026-Anon-the-association-of-post-separation-abuse-and]]"
-  - "[[2019-Clemente-moral-disengagement-and-willingness-to-behave]]"
-  - "[[2025-Dodier-Lemay-comparative-analysis-of-intimate-partner-viol]]"
-  - "[[2017-Anon-secondary-victimization-domestic-violence-sur]]"
-  - "[[2025-Kulak-alcohol-misuse-marital-functioning-and-marita]]"
-  - "[[2023-Anon-how-expert-are-the-experts-child-custody-eval]]"
-  - "[[2026-Anon-current-state-of-psychological-research-on-in]]"
-  - "[[2022-Anon-self-affirmation-and-false-allegations-the-ef]]"
-  - "[[2025-Anon-violence-risk-or-writing-quality-predicting-r]]"
-  - "[[2013-Anon-factors-associated-with-child-custody-evaluat]]"
-  - "[[2016-Anon-best-interest-of-the-child-and-parental-alien]]"
-  - "[[2018-Anon-the-frequency-of-false-allegations-of-child-s]]"
-  - "[[2026-Anon-survivors-of-intimate-partner-violence-barrie]]"
-  - "[[2017-Anon-the-witch-hunt-narrative-turning-a-blind-eye]]"
-  - "[[2025-Anon-special-challenges-working-with-foster-care-y]]"
-  - "[[2024-Alibudbud-intimate-partner-violence-women-s-health-and]]"
-  - "[[2023-Spearman-firearms-and-post-separation-abuse-providing]]"
-  - "[[2024-Fu-intimate-partner-violence-in-the-context-of-i]]"
-  - "[[2025-Rezaei-the-lived-experiences-of-intimate-partner-vio]]"
-  - "[[2024-Anon-association-between-adverse-childhood-experie]]"
-  - "[[2024-Latifian-investigating-the-relationship-between-intern]]"
-  - "[[2024-Glick-children-betrayed-the-unseen-victims-of-domes]]"
-  - "[[2025-Ani-predictors-of-intimate-partner-violence-and-a]]"
-  - "[[2025-Santana-association-between-adverse-childhood-experie]]"
-  - "[[2024-Morishita-help-seeking-behavior-of-male-victims-of-inti]]"
-  - "[[2026-Anon-item]]"
-  - "[[2026-Anon-sexual-lives-and-coping-experiences-of-marrie]]"
-  - "[[2025-Anon-perceptions-of-causes-consequences-and-soluti]]"
-  - "[[2009-Anon-prevention-and-drug-treatment]]"
-  - "[[2023-Anon-domestic-violence-in-cross-border-marriages-a]]"
-  - "[[2024-Kafka-deaths-related-to-domestic-violence-in-washin]]"
-  - "[[2022-Alsawalqa-exploring-jordanian-women-s-resistance-strate]]"
-  - "[[2022-Archer-Kuhn-who-s-going-to-keep-us-safe-surviving-domesti]]"
-  - "[[2022-Risser-supporting-children-experiencing-family-viole]]"
-  - "[[2023-Johnson-risk-factors-associated-with-primary-care-rep]]"
-  - "[[2024-Anon-dissociative-symptoms-in-women-with-histories]]"
-  - "[[2023-Anon-association-between-adverse-childhood-experie]]"
-  - "[[2024-Anon-spotlight-on-juvenile-justice-intersecting-th]]"
-  - "[[2023-Chen-maternal-adverse-childhood-experiences-and-he]]"
-  - "[[2024-Anon-the-longitudinal-association-between-adverse]]"
-  - "[[2023-Kuruppu-family-court-sucks-out-your-soul-australian-g]]"
-  - "[[2023-Anyango-women-with-disabilities-experiences-of-intima]]"
-  - "[[2023-Childress-the-role-of-culture-in-the-justification-and]]"
-  - "[[2023-Gueta-item]]"
-  - "[[2023-Mellouki-the-epidemiological-and-medico-legal-characte]]"
-  - "[[2023-Stanley-precipitating-circumstances-associated-with-i]]"
-  - "[[2023-Morishita-male-intimate-partner-violence-ipv-victims-in]]"
-  - "[[2022-Islam-child-marriage-marital-disruption-and-marriag]]"
-  - "[[2023-Dressler-excessive-psychological-stress-preceding-the]]"
-  - "[[2022-Khodavirdipour-pandemic-consequences-an-increase-in-divorce]]"
-  - "[[2023-Anon-the-influences-of-sociocultural-norms-on-wome]]"
-  - "[[2023-Mahamid-palestinian-law-to-protect-family-and-prevent]]"
-  - "[[2008-Lyon-coaching-truth-induction-and-young-maltreated]]"
-  - "[[2007-Anon-system-intervention-problems-in-child-sexual]]"
-  - "[[2010-Anon-children-s-eyewitness-memory-a-comparison-of]]"
-  - "[[2011-Anon-false-allegation-of-child-abduction]]"
-estado: publicado
-resumen_ejecutivo: "Capítulo político-sociológico: cómo agendas, asimetrías normativas y dogmas de política pública organizan qué daños son visibles. Contrasta el mapa CEDAW/OMS/APA y prohibiciones del SAP con legislaciones que tipifican o procesan la AP; sostiene el doble rechazo (IPV real + denuncia/alienación instrumental); y señala la captura epistémica del debate científico (Head) frente a la evidencia de daño por PABs (Hine)."
-preguntas_abiertas:
-  - "¿Qué indicadores empíricos distinguen política basada en evidencia de dogma?"
-  - "¿Cómo medir prevalencia de denuncia instrumental sin revictimizar supervivientes reales?"
-  - "¿Qué reformas reducen asimetría sin bajar protección ante IPV?"
 ejes:
-  - politica
-  - derecho
-  - menor
 nivel_evidencia_global: controversia
-tags:
-  - vf/capitulo
-  - vf/menor
-  - vf/politica
-  - evidencia/controversia
 ---
 
 # Capítulo 5.1. Asimetrías punitivas, denuncia instrumental y dogma de política pública
 
 <!-- sync:version-badge -->
-> **v1.1** · conocimiento **15** · actualizado **2026-09-18**
+> **v1.1** · conocimiento **80** · actualizado **2026-09-18**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
-La ciencia mide conductas y daños; la política decide **qué daños cuentan**. Este capítulo analiza asimetrías: sistemas que maximizan la primera denuncia, vetos al SAP que pueden obturar la interferencia, y campañas científicas que sustituyen réplica por retractación. No niega la violencia de género ni la convierte en único guion. Hilo: [[Cap-04-01-Medidas-Cautelares-Sesgo]] · [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria]].
+La ciencia mide conductas y daños; la política decide **qué daños cuentan**. Este capítulo analiza asimetrías: sistemas que maximizan la primera denuncia, vetos al SAP que pueden obturar la interferencia, y campañas científicas que sustituyen réplica por retractación. No niega la violencia de género ni la convierte en único guion. Hilo: [[Cap-04-01-Medidas-Cautelares-Sesgo|Capítulo 4.1. Medidas cautelares, presunción y victimización institucional]] · [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria|Capítulo 1.1. Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria]].
 
 ## Pregunta guía
 
@@ -176,7 +74,7 @@ Bajo asimetría, el niño aprende que la verdad es **estratégica**: gana quien 
 
 ## 5. Laboratorio literario
 
-Los juicios de la tragedia griega —coro que ya eligió bando— anticipan el tribunal dogmático. [[Cap-06-01-Medea-Damnatio-Rehen]].
+Los juicios de la tragedia griega —coro que ya eligió bando— anticipan el tribunal dogmático. [[Cap-06-01-Medea-Damnatio-Rehen|Capítulo 6.1. Laboratorio literario: Medea, damnatio memoriae y el menor como rehén]].
 
 ---
 
@@ -225,6 +123,6 @@ _Detalle en digests `01-Fuentes/papers/`. No se inventan hallazgos ausentes del 
 
 ## Enlaces relacionados
 
-- [[Cap-04-01-Medidas-Cautelares-Sesgo]]
-- [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria]]
+- [[Cap-04-01-Medidas-Cautelares-Sesgo|Capítulo 4.1. Medidas cautelares, presunción y victimización institucional]]
+- [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria|Capítulo 1.1. Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria]]
 - [[MOC-Evidencia]]

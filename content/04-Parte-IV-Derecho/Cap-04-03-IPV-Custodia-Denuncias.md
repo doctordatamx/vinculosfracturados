@@ -1,120 +1,21 @@
 ---
-tipo: capitulo
 title: "Violencia de pareja, custodia y denuncias: protección, instrumentalización y doble riesgo"
-parte: "Parte-IV"
-numero: "4.3"
-titulo: "Violencia de pareja, custodia y denuncias: protección, instrumentalización y doble riesgo"
 obra: "Vinculos-Fracturados"
-dg-publish: true
-dg-permalink: "/capitulos/4-3-ipv-custodia-y-denuncias-proteccion-instrumentalizacion-y-doble-ri"
-ultima_actualizacion: "2026-09-18"
-version: "1.0"
+lastmod: 2026-09-18
 conocimiento: 80
-fuentes_integradas:
-  - "[[2023-Bradshaw-intimate-partner-violence-survivors-perspecti]]"
-  - "[[2026-Derech-derecho-a-la-reinsercion-social-no-constituye]]"
-  - "[[2026-Hine-Harman-PAB-prevalence-UK-young-adults]]"
-  - "[[2026-Meland-parental-alienation-conditioned-love]]"
-  - "[[2025-Tutty-item]]"
-  - "[[2016-Anon-child-affected-by-parental-relationship-distr]]"
-  - "[[2018-Gennari-intimate-partner-violence-and-child-custody-e]]"
-  - "[[2024-Tutty-item]]"
-  - "[[2023-Fares-parental-alienation-in-lebanon-a-case-report]]"
-  - "[[2025-Spearman-navigating-protective-precarity-a-thematic-an]]"
-  - "[[2020-Moon-custody-evaluation-in-high-conflict-situation]]"
-  - "[[2024-Anon-a-qualitative-study-on-how-intimate-partner-v]]"
-  - "[[2023-Anon-intimate-partner-violence-child-custody-and-f]]"
-  - "[[2025-Anon-adverse-childhood-experiences-and-loneliness]]"
-  - "[[2025-O-suspension-condicional-del-proceso-estandar-p]]"
-  - "[[2023-Meland-parental-alienation-a-valid-experience]]"
-  - "[[2015-Anon-a-self-report-measure-of-legal-and-administra]]"
-  - "[[2026-Anon-a-systematic-review-of-qualitative-studies-ex]]"
-  - "[[2021-Anon-jurors-gender-and-their-fear-of-false-child-s]]"
-  - "[[2025-Molina-women-s-economic-independence-and-physical-in]]"
-  - "[[2025-Manzouri-factors-affecting-domestic-violence-against-w]]"
-  - "[[2025-Umuziga-predicting-and-preventing-intimate-partner-ho]]"
-  - "[[2026-Anon-the-association-of-post-separation-abuse-and]]"
-  - "[[2019-Clemente-moral-disengagement-and-willingness-to-behave]]"
-  - "[[2025-Dodier-Lemay-comparative-analysis-of-intimate-partner-viol]]"
-  - "[[2017-Anon-secondary-victimization-domestic-violence-sur]]"
-  - "[[2025-Kulak-alcohol-misuse-marital-functioning-and-marita]]"
-  - "[[2023-Anon-how-expert-are-the-experts-child-custody-eval]]"
-  - "[[2026-Anon-current-state-of-psychological-research-on-in]]"
-  - "[[2022-Anon-self-affirmation-and-false-allegations-the-ef]]"
-  - "[[2025-Anon-violence-risk-or-writing-quality-predicting-r]]"
-  - "[[2013-Anon-factors-associated-with-child-custody-evaluat]]"
-  - "[[2016-Anon-best-interest-of-the-child-and-parental-alien]]"
-  - "[[2018-Anon-the-frequency-of-false-allegations-of-child-s]]"
-  - "[[2026-Anon-survivors-of-intimate-partner-violence-barrie]]"
-  - "[[2017-Anon-the-witch-hunt-narrative-turning-a-blind-eye]]"
-  - "[[2025-Anon-special-challenges-working-with-foster-care-y]]"
-  - "[[2024-Alibudbud-intimate-partner-violence-women-s-health-and]]"
-  - "[[2023-Spearman-firearms-and-post-separation-abuse-providing]]"
-  - "[[2024-Fu-intimate-partner-violence-in-the-context-of-i]]"
-  - "[[2025-Rezaei-the-lived-experiences-of-intimate-partner-vio]]"
-  - "[[2024-Anon-association-between-adverse-childhood-experie]]"
-  - "[[2024-Latifian-investigating-the-relationship-between-intern]]"
-  - "[[2024-Glick-children-betrayed-the-unseen-victims-of-domes]]"
-  - "[[2025-Ani-predictors-of-intimate-partner-violence-and-a]]"
-  - "[[2025-Santana-association-between-adverse-childhood-experie]]"
-  - "[[2024-Morishita-help-seeking-behavior-of-male-victims-of-inti]]"
-  - "[[2026-Anon-item]]"
-  - "[[2026-Anon-sexual-lives-and-coping-experiences-of-marrie]]"
-  - "[[2025-Anon-perceptions-of-causes-consequences-and-soluti]]"
-  - "[[2009-Anon-prevention-and-drug-treatment]]"
-  - "[[2023-Anon-domestic-violence-in-cross-border-marriages-a]]"
-  - "[[2024-Kafka-deaths-related-to-domestic-violence-in-washin]]"
-  - "[[2022-Alsawalqa-exploring-jordanian-women-s-resistance-strate]]"
-  - "[[2022-Archer-Kuhn-who-s-going-to-keep-us-safe-surviving-domesti]]"
-  - "[[2022-Risser-supporting-children-experiencing-family-viole]]"
-  - "[[2023-Johnson-risk-factors-associated-with-primary-care-rep]]"
-  - "[[2024-Anon-dissociative-symptoms-in-women-with-histories]]"
-  - "[[2023-Anon-association-between-adverse-childhood-experie]]"
-  - "[[2024-Anon-spotlight-on-juvenile-justice-intersecting-th]]"
-  - "[[2023-Chen-maternal-adverse-childhood-experiences-and-he]]"
-  - "[[2024-Anon-the-longitudinal-association-between-adverse]]"
-  - "[[2023-Kuruppu-family-court-sucks-out-your-soul-australian-g]]"
-  - "[[2023-Anyango-women-with-disabilities-experiences-of-intima]]"
-  - "[[2023-Childress-the-role-of-culture-in-the-justification-and]]"
-  - "[[2023-Gueta-item]]"
-  - "[[2023-Mellouki-the-epidemiological-and-medico-legal-characte]]"
-  - "[[2023-Stanley-precipitating-circumstances-associated-with-i]]"
-  - "[[2023-Morishita-male-intimate-partner-violence-ipv-victims-in]]"
-  - "[[2022-Islam-child-marriage-marital-disruption-and-marriag]]"
-  - "[[2023-Dressler-excessive-psychological-stress-preceding-the]]"
-  - "[[2022-Khodavirdipour-pandemic-consequences-an-increase-in-divorce]]"
-  - "[[2023-Anon-the-influences-of-sociocultural-norms-on-wome]]"
-  - "[[2023-Mahamid-palestinian-law-to-protect-family-and-prevent]]"
-  - "[[2008-Lyon-coaching-truth-induction-and-young-maltreated]]"
-  - "[[2007-Anon-system-intervention-problems-in-child-sexual]]"
-  - "[[2010-Anon-children-s-eyewitness-memory-a-comparison-of]]"
-  - "[[2011-Anon-false-allegation-of-child-abduction]]"
-  - "[[1996-Anon-repeated-false-allegations-of-sexual-abuse-pr]]"
-  - "[[1997-Anon-case-study-allegations-of-abuse-created-in-a]]"
-estado: publicado
-resumen_ejecutivo: "La violencia en la pareja íntima —en adelante violencia de pareja— y las disputas de custodia se cruzan en el juzgado familiar: hay sobrevivientes que viven «precariedad protectora», peritajes que deben detectar coerción, y un doble riesgo —minimizar el maltrato o negar la instrumentalización del menor y de la denuncia. Este capítulo sostiene ambos polos sin dogma."
-preguntas_abiertas:
-  - "¿Qué protocolos mexicanos articulan órdenes de protección con evaluación diferencial de alienación/interferencia?"
-  - "¿Cómo medir tasas base de alegaciones fundadas vs. infundadas sin colonizar el expediente?"
 ejes:
-  - derecho
-  - forense
-  - menor
 nivel_evidencia_global: media
-tags:
-  - vf/capitulo
-  - vf/menor
 ---
 
 # Capítulo 4.3. Violencia de pareja, custodia y denuncias: protección, instrumentalización y doble riesgo
 
 <!-- sync:version-badge -->
-> **v1.1** · conocimiento **80** · actualizado **2026-09-18**
+> **v1.0** · conocimiento **80** · actualizado **2026-09-18**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
-Cuando hay violencia de pareja (intimate partner violence) y litigio de custodia, el error más caro es elegir un eslogan. Este capítulo organiza evidencia sobre sobrevivientes en tribunales familiares, precariedad de las órdenes civiles de protección, modelos de evaluación preliminar y el cruce con comportamientos parentales alienantes —PABs (comportamientos parentales alienantes)—. Puentes: [[Cap-03-04-Control-Coercitivo-Familia]] · [[Cap-05-01-Asimetrias-Denuncia-Dogma]] · [[Cap-04-01-Medidas-Cautelares-Sesgo]].
+Cuando hay violencia de pareja (intimate partner violence) y litigio de custodia, el error más caro es elegir un eslogan. Este capítulo organiza evidencia sobre sobrevivientes en tribunales familiares, precariedad de las órdenes civiles de protección, modelos de evaluación preliminar y el cruce con comportamientos parentales alienantes —PABs (comportamientos parentales alienantes)—. Puentes: [[Cap-03-04-Control-Coercitivo-Familia|Capítulo 3.4. Control coercitivo, familia y custodia]] · [[Cap-05-01-Asimetrias-Denuncia-Dogma|Capítulo 5.1. Asimetrías punitivas, denuncia instrumental y dogma de política pública]] · [[Cap-04-01-Medidas-Cautelares-Sesgo|Capítulo 4.1. Medidas cautelares, presunción y victimización institucional]].
 
 ## Pregunta guía
 
@@ -128,7 +29,7 @@ Cuando hay violencia de pareja (intimate partner violence) y litigio de custodia
 
 **Precariedad protectora:** experiencia de madres sobrevivientes que buscan protección civil y, al hacerlo, aumentan su vulnerabilidad en el mismo sistema ([@spearman2025navigatingpr]; [[2025-Spearman-navigating-protective-precarity-a-thematic-an]]).
 
-**Doble riesgo analítico:** (1) negar o minimizar la violencia; (2) usar la etiqueta de alienación para desacreditar denuncias fundadas —o, simétricamente, usar la denuncia para borrar un vínculo. El libro sostiene la tensión, no un bando ([[Cap-01-02-Redefinicion-CDN-Neurociencia]]).
+**Doble riesgo analítico:** (1) negar o minimizar la violencia; (2) usar la etiqueta de alienación para desacreditar denuncias fundadas —o, simétricamente, usar la denuncia para borrar un vínculo. El libro sostiene la tensión, no un bando ([[Cap-01-02-Redefinicion-CDN-Neurociencia|Capítulo 1.2. Redefinición operativa: Derechos del Niño y neurociencia del apego]]).
 
 ---
 
@@ -142,7 +43,7 @@ Bradshaw et al. preguntaron a 214 madres expuestas a violencia de pareja qué le
 
 ### 2.2 Órdenes de protección y custodia
 
-Spearman et al. describen dieciocho trayectorias maternas: el núcleo es navegar protección que genera nueva precariedad ([@spearman2025navigatingpr]; [[2025-Spearman-navigating-protective-precarity-a-thematic-an]]). Lectura operativa: la medida cautelar no es neutra; puede salvar y, mal diseñada, **revictimizar** ([[Cap-04-01-Medidas-Cautelares-Sesgo]]).
+Spearman et al. describen dieciocho trayectorias maternas: el núcleo es navegar protección que genera nueva precariedad ([@spearman2025navigatingpr]; [[2025-Spearman-navigating-protective-precarity-a-thematic-an]]). Lectura operativa: la medida cautelar no es neutra; puede salvar y, mal diseñada, **revictimizar** ([[Cap-04-01-Medidas-Cautelares-Sesgo|Capítulo 4.1. Medidas cautelares, presunción y victimización institucional]]).
 
 ### 2.3 Evaluación de custodia con violencia y alienación
 
@@ -154,31 +55,31 @@ La encuesta británica de Hine et al. documenta alta prevalencia de PABs (compor
 
 ### 2.5 Amor condicionado y manipulación del vínculo
 
-Meland nombra la estructura afectiva del «quiéreme odiando» en contextos de alienación ([@meland2026love]; [[2026-Meland-parental-alienation-conditioned-love]]). Cruza con lealtad forzada ([[Cap-03-01-Lealtad-Memoria-Gatekeeping]]).
+Meland nombra la estructura afectiva del «quiéreme odiando» en contextos de alienación ([@meland2026love]; [[2026-Meland-parental-alienation-conditioned-love]]). Cruza con lealtad forzada ([[Cap-03-01-Lealtad-Memoria-Gatekeeping|Capítulo 3.1. Lealtad forzada, manipulación de la memoria y gatekeeping]]).
 
 ### 2.6 Límites
 
 - Experiencias de sobrevivientes ≠ prueba de cada expediente.  
 - Estudios sobre alegaciones falsas existen en el corpus; no autorizan a presuponer tasa local.  
-- Distinguir violencia de pareja, control coercitivo ([[Cap-03-04-Control-Coercitivo-Familia]]) e interferencia parental.
+- Distinguir violencia de pareja, control coercitivo ([[Cap-03-04-Control-Coercitivo-Familia|Capítulo 3.4. Control coercitivo, familia y custodia]]) e interferencia parental.
 
 ---
 
 ## 3. Falla institucional / sesgo ideológico
 
-El dogma de política pública elige un único villano. El expediente serio admite **ambos** riesgos: maltrato real e instrumentalización. Ver [[Cap-05-01-Asimetrias-Denuncia-Dogma]].
+El dogma de política pública elige un único villano. El expediente serio admite **ambos** riesgos: maltrato real e instrumentalización. Ver [[Cap-05-01-Asimetrias-Denuncia-Dogma|Capítulo 5.1. Asimetrías punitivas, denuncia instrumental y dogma de política pública]].
 
 ---
 
 ## 4. Impacto en el menor
 
-El menor puede ser testigo, escudo, mensajero o rehén. La pregunta no es «quién gana la narrativa», sino qué vínculo seguro puede conservar sin reexposición al miedo ([[Cap-01-02-Redefinicion-CDN-Neurociencia]]).
+El menor puede ser testigo, escudo, mensajero o rehén. La pregunta no es «quién gana la narrativa», sino qué vínculo seguro puede conservar sin reexposición al miedo ([[Cap-01-02-Redefinicion-CDN-Neurociencia|Capítulo 1.2. Redefinición operativa: Derechos del Niño y neurociencia del apego]]).
 
 ---
 
 ## 5. Laboratorio literario
 
-La orden de protección y la demanda de alienación pueden ser, cada una, escudo o arma. El mito solo aclara la forma; no sustituye prueba ([[Cap-06-01-Medea-Damnatio-Rehen]]).
+La orden de protección y la demanda de alienación pueden ser, cada una, escudo o arma. El mito solo aclara la forma; no sustituye prueba ([[Cap-06-01-Medea-Damnatio-Rehen|Capítulo 6.1. Laboratorio literario: Medea, damnatio memoriae y el menor como rehén]]).
 
 ---
 
@@ -186,8 +87,8 @@ La orden de protección y la demanda de alienación pueden ser, cada una, escudo
 
 1. Evaluar violencia de pareja y control coercitivo **antes** de forzar contacto.  
 2. Evaluar PABs e interferencia **sin** usarlos para borrar denuncias fundadas.  
-3. Exigir peritajes competentes en ambos ejes ([[Cap-03-05-Evaluacion-Custodia-Forense]]).  
-4. Anclar cautelares a hechos, no a eslóganes ([[Cap-04-01-Medidas-Cautelares-Sesgo]]).
+3. Exigir peritajes competentes en ambos ejes ([[Cap-03-05-Evaluacion-Custodia-Forense|Capítulo 3.5. Evaluación de custodia y peritaje forense]]).  
+4. Anclar cautelares a hechos, no a eslóganes ([[Cap-04-01-Medidas-Cautelares-Sesgo|Capítulo 4.1. Medidas cautelares, presunción y victimización institucional]]).
 
 
 ## Oleada de evidencia (2026-09-18)

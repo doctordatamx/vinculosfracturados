@@ -1,70 +1,15 @@
 ---
-tipo: capitulo
-dg-permalink: "/capitulos/7-1-escuela-consejeria-y-logro-el-menor-entre-hogares-y-aula"
 title: "Escuela, consejería y logro: el menor entre hogares y aula"
-parte: "Parte-VII"
-numero: "7.1"
-titulo: "Escuela, consejería y logro: el menor entre hogares y aula"
 obra: "Vinculos-Fracturados"
-dg-publish: true
-ultima_actualizacion: "2026-09-18"
-version: "1.0"
+lastmod: 2026-09-18
 conocimiento: 35
-fuentes_integradas:
-  - "[[1983-Guidubaldi-the-impact-of-parental-divorce-on-children-re]]"
-  - "[[1987-Calabrese-the-identification-of-alienated-parents-and-c]]"
-  - "[[2009-Connolly-evidence-based-counseling-interventions-with]]"
-  - "[[2007-Somody-paper-bag-books-a-creative-intervention-with]]"
-  - "[[2012-Beausang-young-people-whose-parents-are-separated-or-d]]"
-  - "[[2002-Hoffer-custody-and-access-issues-in-schools-law-matt]]"
-  - "[[2006-Hale-adolescents-perceptions-of-parenting-behaviou]]"
-  - "[[2022-Harman-developmental-psychology-and-the-scientific-s]]"
-  - "[[2012-Pepiton-is-parental-alienation-disorder-a-valid-conce]]"
-  - "[[1986-Beekman-helping-children-cope-with-divorce-the-school]]"
-  - "[[2017-Atiles-preservice-teachers-understanding-of-children]]"
-  - "[[2017-Choi-co-parenting-for-successful-kids-impacts-and]]"
-  - "[[2014-Crawford-buffering-negative-impacts-of-divorce-on-chil]]"
-  - "[[2022-Becher-divorce-and-predictors-of-child-outcomes-the]]"
-  - "[[2023-Turner-the-effectiveness-of-online-divorce-education]]"
-  - "[[1989-Mccombs-adolescent-school-performance-following-paren]]"
-  - "[[1996-Wadsby-academic-achievement-in-children-of-divorce]]"
-  - "[[2013-Henry-conflict-resolution-strategies-adopted-from-p]]"
-  - "[[1997-Nisivoccia-the-influence-of-parental-separation-and-divo]]"
-  - "[[2010-Molepo-teacher-ratings-of-academic-achievement-of-ch]]"
-  - "[[2021-Miralles-long-term-emotional-consequences-of-parental]]"
-  - "[[2020-Little-romantic-relationship-satisfaction-and-parent]]"
-  - "[[2016-Anon-resilience-and-rejection-sensitivity-mediate]]"
-  - "[[2011-Anon-children-of-divorce-the-differential-diagnosi]]"
-  - "[[1990-Anon-preschool-age-children-of-divorce-transitiona]]"
-  - "[[2009-Anon-parental-divorce-and-adult-children-s-attachm]]"
-  - "[[1978-Anon-medical-psychologic-and-legal-aspects-of-chil]]"
-  - "[[2019-Tas-school-attachment-and-video-game-addiction-of]]"
-  - "[[1989-Adams-the-effects-of-divorce-on-achievement-behavio]]"
-  - "[[2003-Anon-parental-alignments-and-rejection-an-empirica]]"
-  - "[[1987-Anon-the-assessment-of-custody-and-access-disputes]]"
-  - "[[2019-Anon-parental-divorce-is-associated-with-an-increa]]"
-  - "[[2014-Modecki-latent-profiles-of-nonresidential-father-enga]]"
-  - "[[2017-Anon-predictors-of-psychological-evaluation-recomm]]"
-  - "[[2026-Li-does-educational-assortative-mating-matter-pa]]"
-estado: publicado
-resumen_ejecutivo: "Desde ERIC (IES), el ángulo educativo del conflicto parental no pasa principalmente por el rótulo «alienación parental» (pocos registros estrictos + escuela), sino por divorcio/separación → logro, asistencia, consejería escolar, formación docente y programas de educación para coparentalidad. La escuela es a menudo el único espacio estable del menor entre hogares. Este capítulo organiza esa evidencia y la cruza con el debate científico sobre PA."
-preguntas_abiertas:
-  - "¿Qué protocolos escolares mexicanos existen para custodia, retiro y denuncias entre progenitores?"
-  - "¿Puede el consejero escolar distinguir lealtad forzada de rechazo justificado sin convertirse en perito de custodia?"
 ejes:
-  - menor
-  - educativo
-tags:
-  - vf/capitulo
-  - vf/menor
-  - vf/educacion
-  - evidencia/media
 ---
 
 # Capítulo 7.1. Escuela, consejería y logro: el menor entre hogares y aula
 
 <!-- sync:version-badge -->
-> **v1.0** · conocimiento **20** · actualizado **2026-09-18** · corpus ERIC
+> **v1.0** · conocimiento **35** · actualizado **2026-09-18**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -144,7 +89,7 @@ Comprensión de futuros maestros sobre hijos de familias divorciadas y autoefica
 
 ## 5. Laboratorio literario
 
-El menor cambia de mochila y de reglas dos veces por semana; el pupitre es el único objeto que no elige bando. Ampliar en [[Cap-06-01-Medea-Damnatio-Rehen]].
+El menor cambia de mochila y de reglas dos veces por semana; el pupitre es el único objeto que no elige bando. Ampliar en [[Cap-06-01-Medea-Damnatio-Rehen|Capítulo 6.1. Laboratorio literario: Medea, damnatio memoriae y el menor como rehén]].
 
 ---
 
@@ -153,7 +98,7 @@ El menor cambia de mochila y de reglas dos veces por semana; el pupitre es el ú
 1. Protocolo de **custodia/acceso** claro en dirección escolar.  
 2. Observar conductas + contexto; no etiquetar SAP.  
 3. Consejería breve / grupos / derivación —no peritaje.  
-4. Puentes: [[Cap-03-02-Apego-Divorcio-Separacion]] · [[Cap-03-01-Lealtad-Memoria-Gatekeeping]] · [[Cap-03-05-Evaluacion-Custodia-Forense]].
+4. Puentes: [[Cap-03-02-Apego-Divorcio-Separacion|Capítulo 3.2. Apego, divorcio y separación parental]] · [[Cap-03-01-Lealtad-Memoria-Gatekeeping|Capítulo 3.1. Lealtad forzada, manipulación de la memoria y gatekeeping]] · [[Cap-03-05-Evaluacion-Custodia-Forense|Capítulo 3.5. Evaluación de custodia y peritaje forense]].
 
 ## Mapa de búsqueda ERIC (resumen)
 
@@ -203,7 +148,7 @@ Oleada ERIC 2026-09-18 (24 digests ingeridos). Ver stems en frontmatter.
 
 ## Enlaces relacionados
 
-- [[Cap-03-02-Apego-Divorcio-Separacion]]
-- [[Cap-02-01-Trauma-Ruptura-Vinculo]]
+- [[Cap-03-02-Apego-Divorcio-Separacion|Capítulo 3.2. Apego, divorcio y separación parental]]
+- [[Cap-02-01-Trauma-Ruptura-Vinculo|Capítulo 2.1. Trauma de ruptura forzada: apego, estrés y neurodesarrollo]]
 - [[MOC-Evidencia]]
 - [[ficha-tecnica-obra]]

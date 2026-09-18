@@ -1,11 +1,6 @@
 ---
-tipo: apendice
-titulo: "Changelog del libro"
+title: "Changelog del libro"
 obra: "Vinculos-Fracturados"
-dg-publish: true
-dg-permalink: /apendices/changelog
-tags:
-  - vf/apendice
 ---
 
 # Changelog del libro

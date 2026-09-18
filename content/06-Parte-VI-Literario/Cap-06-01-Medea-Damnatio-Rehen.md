@@ -1,32 +1,10 @@
 ---
-tipo: capitulo
 title: "Laboratorio literario: Medea, damnatio memoriae y el menor como rehén"
-parte: "Parte-VI"
-numero: "6.1"
-titulo: "Laboratorio literario: Medea, damnatio memoriae y el menor como rehén"
 obra: "Vinculos-Fracturados"
-dg-publish: true
-dg-permalink: "/capitulos/6-1-laboratorio-literario-medea-damnatio-memoriae-y-el-menor-como-rehe"
-ultima_actualizacion: "2026-08-09"
-version: "1.0"
+lastmod: 2026-08-09
 conocimiento: 3
-fuentes_integradas:
-  - "[[2026-Roysland-Koskinen-PA-self-esteem-meta-ethnography]]"
-  - "[[2023-Pinzon-Colunga-AP-derechos-humanos-ninez]]"
-  - "[[2026-Meland-parental-alienation-conditioned-love]]"
-estado: publicado
-resumen_ejecutivo: "Dispositivos narrativos —no evidencia— para nombrar la forma del daño: Medea (venganza a través de los hijos), damnatio memoriae (borrado del progenitor), el rehén (menor como garantía) y el árbol a la sombra (Røysland). Sirve al Laboratorio Literario de la obra y delimita qué no puede hacer la metáfora: sustituir prueba, pericia o derechos."
-preguntas_abiertas:
-  - "¿Qué otras obras (cine, narrativa contemporánea) enriquecerán el laboratorio sin romanticizar el daño?"
-  - "¿Cómo enseñar estas analogías a operadores jurídicos sin convertirlas en argumento de parte?"
 ejes:
-  - literario
-  - menor
 nivel_evidencia_global: baja
-tags:
-  - vf/capitulo
-  - vf/menor
-  - vf/literario
 ---
 
 # Capítulo 6.1. Laboratorio literario: Medea, damnatio memoriae y el menor como rehén
@@ -37,7 +15,7 @@ tags:
 
 ## Resumen ejecutivo
 
-Este capítulo no prueba alienación: **nombra su silueta**. Las metáforas permiten a clínicos, juristas y familias reconocer patrones cuando el lenguaje técnico aún titubea. Regla de oro del Libro Vivo: todo lo aquí dicho es *dispositivo narrativo* (`#vf/literario`), subordinado a [[Cap-01-02-Redefinicion-CDN-Neurociencia]] y a la evidencia de Partes II–V.
+Este capítulo no prueba alienación: **nombra su silueta**. Las metáforas permiten a clínicos, juristas y familias reconocer patrones cuando el lenguaje técnico aún titubea. Regla de oro del Libro Vivo: todo lo aquí dicho es *dispositivo narrativo* (`#vf/literario`), subordinado a [[Cap-01-02-Redefinicion-CDN-Neurociencia|Capítulo 1.2. Redefinición operativa: Derechos del Niño y neurociencia del apego]] y a la evidencia de Partes II–V.
 
 ## Pregunta guía
 
@@ -78,7 +56,7 @@ La literatura no establece prevalencia, causalidad ni tipicidad penal. Quien cit
 
 ## 3. Falla institucional / sesgo ideológico
 
-Los sistemas también usan relatos: el del agresor único, el del alienador único, el del niño oráculo. El laboratorio literario **desmonta** relatos cerrados mostrando que la forma del daño (rehén, borrado, venganza intermediada) puede encarnarse en actores de distinto género y rol —y que el Estado puede ser el carcelero del rehén ([[Cap-04-01-Medidas-Cautelares-Sesgo]]).
+Los sistemas también usan relatos: el del agresor único, el del alienador único, el del niño oráculo. El laboratorio literario **desmonta** relatos cerrados mostrando que la forma del daño (rehén, borrado, venganza intermediada) puede encarnarse en actores de distinto género y rol —y que el Estado puede ser el carcelero del rehén ([[Cap-04-01-Medidas-Cautelares-Sesgo|Capítulo 4.1. Medidas cautelares, presunción y victimización institucional]]).
 
 ---
 
@@ -112,7 +90,7 @@ Cierre afectivo del laboratorio: la meta-etnografía ya dio la imagen ([@royslan
 
 1. Usar metáforas para **clarificar**, no para sentenciar.  
 2. Etiquetar siempre `#vf/literario`.  
-3. Volver a la evidencia de [[Cap-02-01-Trauma-Ruptura-Vinculo]] y al derecho de [[Cap-01-02-Redefinicion-CDN-Neurociencia]].  
+3. Volver a la evidencia de [[Cap-02-01-Trauma-Ruptura-Vinculo|Capítulo 2.1. Trauma de ruptura forzada: apego, estrés y neurodesarrollo]] y al derecho de [[Cap-01-02-Redefinicion-CDN-Neurociencia|Capítulo 1.2. Redefinición operativa: Derechos del Niño y neurociencia del apego]].  
 4. Ampliar el laboratorio en actualizaciones futuras (cine, narrativa) con la misma disciplina.
 
 ## Preguntas abiertas
@@ -127,5 +105,5 @@ Cierre afectivo del laboratorio: la meta-etnografía ya dio la imagen ([@royslan
 ## Enlaces relacionados
 
 - [[MOC-Literario]]
-- [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria]]
+- [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria|Capítulo 1.1. Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria]]
 - [[ficha-tecnica-obra]]

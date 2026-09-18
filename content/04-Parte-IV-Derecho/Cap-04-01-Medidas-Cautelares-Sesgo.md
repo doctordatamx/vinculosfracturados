@@ -1,118 +1,21 @@
 ---
-tipo: capitulo
 title: "Medidas cautelares, presunción y victimización institucional"
-parte: "Parte-IV"
-numero: "4.1"
-titulo: "Medidas cautelares, presunción y victimización institucional"
 obra: "Vinculos-Fracturados"
-dg-publish: true
-dg-permalink: "/capitulos/4-1-medidas-cautelares-presuncion-y-victimizacion-institucional"
-ultima_actualizacion: "2026-09-18"
-version: "1.1"
+lastmod: 2026-09-18
 conocimiento: 74
-fuentes_integradas:
-  - "[[2023-Weidenslaufer-Lampert-Truffello-AP-Chile-derecho-comparado]]"
-  - "[[2002-Bolanos-SAP-descripcion-abordajes-psicolegales]]"
-  - "[[2026-Meland-parental-alienation-conditioned-love]]"
-  - "[[2025-Guyette-Harris-PCCP-strained-parent-child]]"
-  - "[[2026-Head-retraction-suppression-PA-scholarship]]"
-  - "[[2022-Anterior-interes-superior-del-menor-de-edad-cuando-en]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-guarda-y-custodia-cuando-terceras-personas-ej]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-emplazamiento-a-una-controversia-del-orden-fa]]"
-  - "[[2025-O-suspension-condicional-del-proceso-estandar-p]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-reconvencion-procede-en-el-incidente-de-guard]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-emplazamiento-a-una-controversia-del-orden-fa]]"
-  - "[[2021-Https-Sjf2-Scjn-Gob-prueba-psicologica-practicada-a-un-menor-de-e]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-amparo-indirecto-procede-excepcionalmente-con]]"
-  - "[[2025-Seguimiento-amparo-indirecto-por-regla-general-procede-co]]"
-  - "[[2026-Ninas-cosa-juzgada-en-el-juicio-de-amparo-cuando-se]]"
-  - "[[2017-Https-Sjf2-Scjn-Gob-delito-de-violacion-agravada-por-haberse-come]]"
-  - "[[2022-Https-Sjf2-Scjn-Gob-violencia-familiar-para-acreditar-los-element]]"
-  - "[[2024-Https-Sjf2-Scjn-Gob-pension-alimenticia-el-progenitor-no-custodio]]"
-  - "[[2024-Https-Sjf2-Scjn-Gob-cosa-juzgada-material-o-refleja-no-se-actuali]]"
-  - "[[2024-Https-Sjf2-Scjn-Gob-convivencia-entre-personas-menores-de-edad-co]]"
-  - "[[2026-Persona-pasaporte-provisional-para-personas-menores-d-2]]"
-  - "[[2024-Https-Sjf2-Scjn-Gob-juzgar-sin-estereotipos-de-genero-las-persona]]"
-  - "[[2026-Persona-pasaporte-provisional-para-personas-menores-d]]"
-  - "[[2025-Internacional-restitucion-internacional-lineamientos-para-l]]"
-  - "[[2026-Amparo-suspension-en-el-amparo-en-materia-familiar-d]]"
-  - "[[2026-De-violencia-familiar-cuando-la-victima-sea-una]]"
-  - "[[2025-Despues-acogimiento-residencial-la-declaratoria-de-ab]]"
-  - "[[2026-Profes-perspectiva-de-genero-debe-observarse-en-el-t]]"
-  - "[[2022-Https-Sjf2-Scjn-Gob-medidas-de-seguridad-en-favor-de-la-victima-m]]"
-  - "[[2025-Posteriormente-restitucion-internacional-de-ninas-ninos-y-ad]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-delito-de-equiparable-a-la-violencia-familiar]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-perdida-de-la-patria-potestad-requisitos-para]]"
-  - "[[2024-Embargo-violencia-familiar-corresponde-a-la-persona-j]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-delito-de-violencia-de-genero-el-articulo-361]]"
-  - "[[2026-Que-perspectiva-de-genero-en-materia-laboral-los]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-persona-trans-victima-de-un-delito-su-protecc]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-delito-de-privacion-ilegal-de-la-libertad-por]]"
-  - "[[2026-Anon-delito-de-violencia-familiar-el-elemento-norm]]"
-  - "[[2025-Post-suspension-provisional-en-amparo-indirecto-pr]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-querella-en-el-delito-de-incumplimiento-de-ob]]"
-  - "[[2025-Tanto-orden-de-aprehension-los-requisitos-de-forma]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-juicio-agrario-cuando-al-juzgar-con-perspecti]]"
-  - "[[2026-Amparo-omision-del-juzgado-de-distrito-de-requerir-a]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-delito-de-violencia-familiar-la-declaracion-d]]"
-  - "[[2026-Anon-delito-de-violencia-de-genero-el-articulo-361]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-excepcion-al-principio-de-definitividad-en-am]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-principio-de-definitividad-en-amparo-directo]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-juicio-sumario-civil-cuando-se-promueve-para]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-suspension-provisional-contra-el-cambio-de-ad]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-suplencia-de-la-queja-deficiente-en-materia-p]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-recurso-de-apelacion-es-procedente-contra-la]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-convenio-de-divorcio-requisitos-que-debe-colm]]"
-  - "[[2026-Concreto-suspension-provisional-en-amparo-indirecto-pr]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-accion-personal-para-recuperar-la-posesion-de]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-beneficiarios-de-la-persona-trabajadora-falle]]"
-  - "[[2026-De-suspension-en-el-juicio-de-amparo-en-la-etapa]]"
-  - "[[2025-Restitucion-restitucion-internacional-de-ninas-ninos-y-ad]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-labores-de-cuidado-no-remunerado-la-omision-l]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-principio-de-definitividad-en-amparo-directo-2]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-suspension-provisional-contra-el-cambio-de-ad-2]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-regimen-de-convivencias-la-accion-para-modifi]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-excepcion-al-principio-de-definitividad-en-am-2]]"
-  - "[[2025-Https-Sjf2-Scjn-Gob-convenio-de-divorcio-requisitos-que-debe-colm-2]]"
-  - "[[2025-Restitucion-restitucion-internacional-de-ninas-ninos-y-ad-2]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-medida-de-proteccion-consistente-en-limitar-l]]"
-  - "[[2026-El-suspension-definitiva-en-amparo-indirecto-pro]]"
-  - "[[0000-Https-Sjf2-Scjn-Gob-intimidacion-inexistencia-del-delito-de-previ]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-contratacion-por-tiempo-determinado-de-person]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-beneficiarios-de-la-persona-trabajadora-falle]]"
-  - "[[2026-10A-suplencia-de-la-queja-deficiente-procede-en-t]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-violacion-a-las-leyes-del-procedimiento-del-a]]"
-  - "[[2026-Internacion-suspension-de-plano-en-amparo-indirecto-proce]]"
-  - "[[0000-Https-Sjf2-Scjn-Gob-intimidacion-inexistencia-del-delito-de-previ-2]]"
-  - "[[2026-Https-Sjf2-Scjn-Gob-interes-superior-de-la-ninez-y-principio-pro]]"
-estado: publicado
-resumen_ejecutivo: "Analiza cómo la medida cautelar, la presunción y el peritaje capturado pueden romper vínculos antes de probar hechos —o, al revés, devolver contacto inseguro. Usa el mapa comparado (BCN Chile), la recepción psico-legal (Bolaños), el doble filo IPV/PA (Meland), la experiencia PCCP (Guyette) y la polarización epistémica (Head). El Estado como posible agente de victimización secundaria del menor."
-preguntas_abiertas:
-  - "¿Qué plazos máximos de cautelar sin contrastación son compatibles con el apego?"
-  - "¿Quién audita la calidad del peritaje en alto conflicto?"
-  - "¿Cómo equilibrar protección urgente y derecho al vínculo?"
 ejes:
-  - derecho
-  - forense
-  - menor
 nivel_evidencia_global: controversia
-tags:
-  - vf/capitulo
-  - vf/menor
-  - vf/derecho
-  - vf/forense
-  - evidencia/controversia
 ---
 
 # Capítulo 4.1. Medidas cautelares, presunción y victimización institucional
 
 <!-- sync:version-badge -->
-> **v1.1** · conocimiento **25** · actualizado **2026-09-18**
+> **v1.1** · conocimiento **74** · actualizado **2026-09-18**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
-El derecho de familia dispone de herramientas urgentes legítimas: alejar un riesgo. El problema empieza cuando lo **urgente se cronifica** sin investigación rigurosa, o cuando el constructo de alienación (o su veto) sustituye a la prueba. Este capítulo examina la falla institucional: presunciones, cautelares, peritajes y mapas legales divergentes. Marco: [[Cap-01-02-Redefinicion-CDN-Neurociencia]].
+El derecho de familia dispone de herramientas urgentes legítimas: alejar un riesgo. El problema empieza cuando lo **urgente se cronifica** sin investigación rigurosa, o cuando el constructo de alienación (o su veto) sustituye a la prueba. Este capítulo examina la falla institucional: presunciones, cautelares, peritajes y mapas legales divergentes. Marco: [[Cap-01-02-Redefinicion-CDN-Neurociencia|Capítulo 1.2. Redefinición operativa: Derechos del Niño y neurociencia del apego]].
 
 ## Pregunta guía
 
@@ -126,7 +29,7 @@ El derecho de familia dispone de herramientas urgentes legítimas: alejar un rie
 
 **Cautelar:** medida provisional ante riesgo. Su ética depende de **proporcionalidad, plazo y contrastación**.
 
-**Presunción operativa:** regla práctica («la denuncia basta», «el rechazo prueba alienación») que desplaza la evaluación diferencial de [[Cap-03-01-Lealtad-Memoria-Gatekeeping]].
+**Presunción operativa:** regla práctica («la denuncia basta», «el rechazo prueba alienación») que desplaza la evaluación diferencial de [[Cap-03-01-Lealtad-Memoria-Gatekeeping|Capítulo 3.1. Lealtad forzada, manipulación de la memoria y gatekeeping]].
 
 ---
 
@@ -169,13 +72,13 @@ El menor hereda el sesgo del adulto institucional: o pierde un vínculo seguro, 
 
 ## 4. Impacto en el menor
 
-Cada mes de corte injustificado es tiempo de apego no vivido; cada contacto inseguro forzado es trauma. La victimización institucional es la versión burocrática de la ruptura forzada de [[Cap-02-01-Trauma-Ruptura-Vinculo]].
+Cada mes de corte injustificado es tiempo de apego no vivido; cada contacto inseguro forzado es trauma. La victimización institucional es la versión burocrática de la ruptura forzada de [[Cap-02-01-Trauma-Ruptura-Vinculo|Capítulo 2.1. Trauma de ruptura forzada: apego, estrés y neurodesarrollo]].
 
 ---
 
 ## 5. Laboratorio literario
 
-El expediente como máquina de *damnatio*: un sello cautelar que borra un nombre del calendario del niño. [[Cap-06-01-Medea-Damnatio-Rehen]].
+El expediente como máquina de *damnatio*: un sello cautelar que borra un nombre del calendario del niño. [[Cap-06-01-Medea-Damnatio-Rehen|Capítulo 6.1. Laboratorio literario: Medea, damnatio memoriae y el menor como rehén]].
 
 ---
 
@@ -184,7 +87,7 @@ El expediente como máquina de *damnatio*: un sello cautelar que borra un nombre
 1. Cautelar con **reloj y plan de contrastación**.  
 2. Peritaje adversario metodológico (hipótesis rivales).  
 3. Nombrar conductas, no solo etiquetas prohibidas o sagradas.  
-4. Puente: [[Cap-05-01-Asimetrias-Denuncia-Dogma]].
+4. Puente: [[Cap-05-01-Asimetrias-Denuncia-Dogma|Capítulo 5.1. Asimetrías punitivas, denuncia instrumental y dogma de política pública]].
 
 ## Preguntas abiertas
 
@@ -228,6 +131,6 @@ _Detalle en digests `01-Fuentes/papers/`. No se inventan hallazgos ausentes del 
 
 ## Enlaces relacionados
 
-- [[Cap-01-02-Redefinicion-CDN-Neurociencia]]
-- [[Cap-05-01-Asimetrias-Denuncia-Dogma]]
-- [[Cap-03-01-Lealtad-Memoria-Gatekeeping]]
+- [[Cap-01-02-Redefinicion-CDN-Neurociencia|Capítulo 1.2. Redefinición operativa: Derechos del Niño y neurociencia del apego]]
+- [[Cap-05-01-Asimetrias-Denuncia-Dogma|Capítulo 5.1. Asimetrías punitivas, denuncia instrumental y dogma de política pública]]
+- [[Cap-03-01-Lealtad-Memoria-Gatekeeping|Capítulo 3.1. Lealtad forzada, manipulación de la memoria y gatekeeping]]
