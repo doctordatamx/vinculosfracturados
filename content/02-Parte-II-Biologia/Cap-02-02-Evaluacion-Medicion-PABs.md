@@ -2,7 +2,7 @@
 title: "Evaluación y medición: comportamientos parentales alienantes, escalas y peritaje"
 obra: "Vinculos-Fracturados"
 lastmod: 2026-09-18
-conocimiento: 70
+conocimiento: 72
 ejes:
 nivel_evidencia_global: media
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: media
 # Capítulo 2.2. Evaluación y medición: comportamientos parentales alienantes, escalas y peritaje
 
 <!-- sync:version-badge -->
-> **v1.0** · conocimiento **70** · actualizado **2026-09-18**
+> **v1.0** · conocimiento **72** · actualizado **2026-09-18**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo

@@ -11,7 +11,7 @@ obra: "Vinculos-Fracturados"
 
 ---
 
-Obra modular e interconectada (Obsidian) que analiza la instrumentalización del menor en disputas de custodia: alienación parental, violencia vicaria y fallas institucionales, en tensión con la neurociencia del apego y el derecho.
+Obra modular e interconectada que analiza la instrumentalización del menor en disputas de custodia: alienación parental, violencia vicaria y fallas institucionales, en tensión con la neurociencia del apego y el derecho.
 
 ## Empezar aquí
 
