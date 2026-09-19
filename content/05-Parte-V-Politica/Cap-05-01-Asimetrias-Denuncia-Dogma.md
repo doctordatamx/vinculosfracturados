@@ -2,7 +2,7 @@
 title: "Asimetrías punitivas, denuncia instrumental y dogma de política pública"
 obra: "Vinculos-Fracturados"
 lastmod: 2026-09-18
-conocimiento: 80
+conocimiento: 89
 ejes:
 nivel_evidencia_global: controversia
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: controversia
 # Capítulo 5.1. Asimetrías punitivas, denuncia instrumental y dogma de política pública
 
 <!-- sync:version-badge -->
-> **v1.1** · conocimiento **80** · actualizado **2026-09-18**
+> **v1.2** · conocimiento **89** · actualizado **2026-09-18**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -35,23 +35,37 @@ La ciencia mide conductas y daños; la política decide **qué daños cuentan**.
 
 ## 2. Evidencia científica / documental
 
-> **Nivel:** controversia.
+> **Nivel:** controversia (posiciones institucionales, sysrev, cualitativo de supervivientes, psicometría de agresión legal).
 
-### 2.1 Hallazgos centrales
+### 2.1 Mapas normativos y «exportación» del constructo
 
-**Arquitectura internacional divergente.** El informe BCN resume críticas de ONU/CEDAW/OMS/APA al SAP y, a la vez, legislaciones que procesan o prohíben actos de alienación; España 2021 vs. Brasil/Puerto Rico vs. rechazo chileno del boletín SAP-VIF ([@weidenslaufer2023bcn]; [[2023-Weidenslaufer-Lampert-Truffello-AP-Chile-derecho-comparado]]). La «verdad oficial» del constructo **depende del foro**.
+Weidenslaufer et al. (BCN) contrastan críticas ONU/CEDAW/OMS/APA al SAP con legislaciones que procesan o prohíben alienación; España 2021 vs. Brasil/Puerto Rico vs. rechazo chileno del boletín SAP-VIF ([@weidenslaufer2023bcn]; [[2023-Weidenslaufer-Lampert-Truffello-AP-Chile-derecho-comparado]]). Leonetti advierte sobre la «exportación» estadounidense del SAP como producto jurídico peligroso ([@leonetti2023combattingad]; [[2023-Leonetti-combatting-a-dangerous-american-export-the-ne]]). Segura (Chile) sitúa el SAP como forma de maltrato ([@segura2006elsindromede]; [[2006-Segura-el-sindrome-de-alienacion-parental-una-forma]]). Portilla-Saavedra revisa perspectivas y tendencias del concepto ([@portillasaavedr2021perspectivas]; [[2021-Portilla-Saavedra-perspectivas-y-tendencias-actuales-del-concep]]).
 
-**Salud pública del doble filo.** Meland: PA no gender-specific; asociada a otras violencias del alienador; alegaciones falsas existen; IPV real no debe silenciarse ([@meland2026love]; [[2026-Meland-parental-alienation-conditioned-love]]).
+### 2.2 Evidencia, sysrev y perícia
 
-**Daño que el dogma quiere invisible.** Si la política declara inexistente el fenómeno, choca con hallazgos de PABs y malestar (Hine) ([@hine2026pab]; [[2026-Hine-Harman-PAB-prevalence-UK-young-adults]]).
+Lee-Maturana et al.: revisión sistemática sobre alienación parental ([@leematurana2021alienacionpa]; [[2021-Lee-Maturana-alienacion-parental-una-revision-sistematica]]). Kirchesch aborda evaluación psicológica forense de AP ([@kirchesch2023avaliacaopsi]; [[2023-Kirchesch-avaliacao-psicologica-forense-da-alienacao-pa]]). Hine: prevalencia de PABs y malestar ([@hine2026pab]; [[2026-Hine-Harman-PAB-prevalence-UK-young-adults]]). Head: campañas de retractación y supresión de crítica ([@head2026retraction]; [[2026-Head-retraction-suppression-PA-scholarship]]) —**dogma vs. réplica**.
 
-**Captura del debate.** Head documenta campañas pro-PA de retractación contra crítica ([@head2026retraction]; [[2026-Head-retraction-suppression-PA-scholarship]]). La asimetría también puede operar a favor del lobby alienacionista.
+### 2.3 Doble filo: Meland y análisis género–DV
 
-### 2.2 Límites
+Meland (*conditioned love*): PA no es exclusiva de un género; coexistencia con otras violencias; alegaciones falsas posibles; IPV real no negable ([@meland2026love]; [[2026-Meland-parental-alienation-conditioned-love]]). Experiencia válida de PA sin cerrar nosología ([@meland2023parentalalie]; [[2023-Meland-parental-alienation-a-valid-experience]]). Berg analiza PA en contexto de violencia doméstica y género ([@berg2011parentalalie]; [[2011-Berg-parental-alienation-analysis-domestic-violenc]]).
 
-- No hay en vault aún meta-análisis de prevalencia de denuncias falsas en custodia.  
-- Informes CEDAW/OMS citados vía BCN: usar como posiciones institucionales, no como dato clínico.  
-- Cola IPV–custodia (Spearman/Tutty) pendiente para equilibrar el capítulo.
+### 2.4 IPV, custodia y contabilidad de la violencia
+
+Jaffe et al. sobre disputas de custodia con alegaciones de violencia doméstica ([@jaffe2008custodydispu]; [[2008-Jaffe-custody-disputes-involving-allegations-of-dom]]). Stark: contabilizar adecuadamente la IPV en política y práctica ([@stark2019properlyacco]; [[2019-Stark-properly-accounting-for-domestic-violence-in]]). Gennari: modelo clínico IPV–custodia ([@gennari2018intimatepart]; [[2018-Gennari-intimate-partner-violence-and-child-custody-e]]). Cardeal et al.: revisión sistemática de tecnologías patriarcales ([@cardeal2025tecnologiasp]; [[2025-Cardeal-tecnologias-patriarcais-uma-revisao-sistemati]]) —coerción digital como asimetría moderna.
+
+### 2.5 Supervivientes, family court y victimización secundaria
+
+Bradshaw et al.: perspectivas de supervivientes de IPV ([@bradshaw2023intimatepart]; [[2023-Bradshaw-intimate-partner-violence-survivors-perspecti]]). Archer-Kuhn: «¿Quién nos va a proteger?» —supervivientes domésticas ([@archerkuhn2022whosgoingtok]; [[2022-Archer-Kuhn-who-s-going-to-keep-us-safe-surviving-domesti]]). Kuruppu et al.: experiencia cualitativa devastadora en family court australiano ([@kuruppu2023familycourts]; [[2023-Kuruppu-family-court-sucks-out-your-soul-australian-g]]). Victimización secundaria al navegar derecho de familia: silenciamiento, control, presión a acuerdos inseguros, acusaciones de PA ([@anon2017secondaryvic]; [[2017-Anon-secondary-victimization-domestic-violence-sur]]). Spearman: precariedad protectiva post-separación ([@spearman2025navigatingpr]; [[2025-Spearman-navigating-protective-precarity-a-thematic-an]]; [@spearman2023firearmsandp]; [[2023-Spearman-firearms-and-post-separation-abuse-providing]]).
+
+### 2.6 Instrumentalización, miedo a falsas alegaciones y agresión legal-administrativa
+
+Medida de agresión legal y administrativa en pareja: manipular sistemas legales/administrativos en detrimento del otro ([@anon2015aselfreportm]; [[2015-Anon-a-self-report-measure-of-legal-and-administra]]). Estudio sobre género de jurados y miedo a falsas alegaciones de abuso sexual infantil ([@anon2021jurorsgender]; [[2021-Anon-jurors-gender-and-their-fear-of-false-child-s]]). Self-affirmation y falsas alegaciones ([@anon2022selfaffirmat]; [[2022-Anon-self-affirmation-and-false-allegations-the-ef]]). Frecuencia de falsas alegaciones de abuso sexual ([@anon2018thefrequency]; [[2018-Anon-the-frequency-of-false-allegations-of-child-s]]) —debate de base rates, no comodín. Tutty et al. (ítems en FM) sobre IPV y custodia ([@tutty2025item]; [[2025-Tutty-item]]; [@tutty2024item]; [[2024-Tutty-item]]).
+
+### 2.7 Límites
+
+- Prevalencia de denuncias falsas en custodia: sin meta-análisis dedicado en vault.  
+- Posiciones CEDAW/OMS vía BCN = **institucional**, no dato clínico individual.  
+- Dogma en ambos polos: vetar SAP *y* vender PA como única explicación del rechazo.
 
 ---
 
@@ -84,7 +98,7 @@ Los juicios de la tragedia griega —coro que ya eligió bando— anticipan el t
 2. Mantener doble rechazo Meland.  
 3. Auditar asimetrías de plazo y estándar probatorio.  
 4. Resistir captura epistémica (Head) en ambos polos.  
-5. Próxima ingesta: Spearman/Tutty para el polo IPV–custodia.
+5. Leer supervivientes (Bradshaw, Archer-Kuhn, Kuruppu) junto a PABs (Hine), no en lugar de ellas.
 
 ## Preguntas abiertas
 
@@ -93,33 +107,13 @@ Los juicios de la tragedia griega —coro que ya eligió bando— anticipan el t
 - Violencia vicaria como categoría jurídica vs. descriptiva.
 
 
-## Oleada de evidencia (2026-09-18)
+## Fuentes integradas (núcleo en prosa)
 
-Integración batch priorizada por calidad metodológica heurística (meta/sysrev > longitudinal/psicometría > empírico > doctrina).
-
-| Citekey | Stem | Nivel | Score |
-|---------|------|-------|-------|
-| [@bradshaw2023intimatepart] | [[2023-Bradshaw-intimate-partner-violence-survivors-perspecti]] | media | 64 |
-| [@derech2026derechoalare] | [[2026-Derech-derecho-a-la-reinsercion-social-no-constituye]] | media | 60 |
-| [@head2026retraction] | [[2026-Head-retraction-suppression-PA-scholarship]] | baja | 50 |
-| [@hine2026pab] | [[2026-Hine-Harman-PAB-prevalence-UK-young-adults]] | media | 50 |
-| [@meland2026love] | [[2026-Meland-parental-alienation-conditioned-love]] | baja | 50 |
-| [@weidenslaufer2023bcn] | [[2023-Weidenslaufer-Lampert-Truffello-AP-Chile-derecho-comparado]] | media | 50 |
-| [@tutty2025item] | [[2025-Tutty-item]] | media | 46 |
-| [@anon2016childaffecte] | [[2016-Anon-child-affected-by-parental-relationship-distr]] | media | 43 |
-| [@gennari2018intimatepart] | [[2018-Gennari-intimate-partner-violence-and-child-custody-e]] | media | 36 |
-| [@tutty2024item] | [[2024-Tutty-item]] | media | 36 |
-| [@fares2023parentalalie] | [[2023-Fares-parental-alienation-in-lebanon-a-case-report]] | media | 36 |
-| [@spearman2025navigatingpr] | [[2025-Spearman-navigating-protective-precarity-a-thematic-an]] | media | 36 |
-| [@moon2020custodyevalu] | [[2020-Moon-custody-evaluation-in-high-conflict-situation]] | baja | 31 |
-| [@anon2024aqualitative] | [[2024-Anon-a-qualitative-study-on-how-intimate-partner-v]] | media | 28 |
-| [@anon2023intimatepart] | [[2023-Anon-intimate-partner-violence-child-custody-and-f]] | media | 25 |
-
-_Detalle en digests `01-Fuentes/papers/`. No se inventan hallazgos ausentes del abstract/clip._
-
-## Fuentes integradas
-
-- [@weidenslaufer2023bcn] · [@meland2026love] · [@head2026retraction] · [@hine2026pab]
+- Normativo / concepto: [@weidenslaufer2023bcn] · [@leonetti2023combattingad] · [@segura2006elsindromede] · [@portillasaavedr2021perspectivas]
+- Evidencia / perícia: [@leematurana2021alienacionpa] · [@kirchesch2023avaliacaopsi] · [@hine2026pab] · [@head2026retraction]
+- Doble filo PA–IPV: [@meland2026love] · [@meland2023parentalalie] · [@berg2011parentalalie] · [@jaffe2008custodydispu] · [@stark2019properlyacco] · [@cardeal2025tecnologiasp]
+- Supervivientes / sistema: [@bradshaw2023intimatepart] · [@archerkuhn2022whosgoingtok] · [@kuruppu2023familycourts] · [@anon2017secondaryvic] · [@spearman2025navigatingpr]
+- Instrumentalización: [@anon2015aselfreportm] · [@anon2021jurorsgender] · [@anon2022selfaffirmat] · [@tutty2025item]
 
 ## Enlaces relacionados
 

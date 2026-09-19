@@ -2,14 +2,14 @@
 title: "Escuela, consejería y logro: el menor entre hogares y aula"
 obra: "Vinculos-Fracturados"
 lastmod: 2026-09-18
-conocimiento: 35
+conocimiento: 37
 ejes:
 ---
 
 # Capítulo 7.1. Escuela, consejería y logro: el menor entre hogares y aula
 
 <!-- sync:version-badge -->
-> **v1.0** · conocimiento **35** · actualizado **2026-09-18**
+> **v1.1** · conocimiento **37** · actualizado **2026-09-18**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -26,7 +26,7 @@ Cuando el vínculo se fractura en casa, ¿qué ve —y qué puede hacer sin usur
 
 **Ángulo educativo:** asistencia, logro, conducta, apego escolar, consejería y formación docente ante hijos de separación/divorcio o alto conflicto.
 
-**Límite:** la escuela no diagnostica alienación parental; puede **observar** cambios, triangulación y órdenes de custodia/acceso ([@hoffer2002custody]; [[2002-Hoffer-custody-and-access-issues-in-schools-law-matt]]).
+**Límite:** la escuela no diagnostica alienación parental; puede **observar** cambios, triangulación y órdenes de custodia/acceso ([@hoffer2002custodyandac]; [[2002-Hoffer-custody-and-access-issues-in-schools-law-matt]]).
 
 **Alienación percibida (clínica-educativa):** Hale et al. asocian percepción adolescente de alienación/rechazo parental con síntomas de ansiedad generalizada ([@hale2006adolescentsp]; [[2006-Hale-adolescents-perceptions-of-parenting-behaviou]]) —no es prueba forense de PA.
 
@@ -44,10 +44,7 @@ Cuando el vínculo se fractura en casa, ¿qué ve —y qué puede hacer sin usur
 
 ### 2.2 Consejería e intervenciones escolares
 
-- Consejero escolar ante divorcio ([@beekman1986helpingchild]; [[1986-Beekman-helping-children-cope-with-divorce-the-school]]).
-- Intervenciones basadas en evidencia en primaria ([@connolly2009evidencebase]; [[2009-Connolly-evidence-based-counseling-interventions-with]]).
-- Trabajo grupal en primaria ([@deluciawaack2001effectivegro]; [[2001-Delucia-Waack-effective-group-work-for-elementary-school-ag]]).
-- Intervención creativa en **alto conflicto** (Paper Bag Books) ([@somody2007paperbagbook]; [[2007-Somody-paper-bag-books-a-creative-intervention-with]]).
+El consejero escolar es el adulto institucional que ve al menor **entre** hogares: Beekman describe funciones del orientador ante divorcio ([@beekman1986helpingchild]; [[1986-Beekman-helping-children-cope-with-divorce-the-school]]). Connolly et al. sintetizan intervenciones basadas en evidencia en primaria ([@connolly2009evidencebase]; [[2009-Connolly-evidence-based-counseling-interventions-with]]). Schmidt (2025) actualiza el paquete «helping children heal» —consejería e intervenciones para sanar tras ruptura familiar, alineado con el eje escuela–trauma ([@schmidt2025helpingchild]; [[2025-Schmidt-helping-children-heal-counseling-intervention]]). Somody et al.: intervención creativa (Paper Bag Books) en familias de **alto conflicto** ([@somody2007paperbagbook]; [[2007-Somody-paper-bag-books-a-creative-intervention-with]]). Experiencias cualitativas de niños ([@anon2023aqualitative]; [[2023-Anon-a-qualitative-study-of-children-s-experiences]]) complementan la mirada clínica sin sustituir protocolo escolar.
 
 ### 2.3 Identificación de «alienados» y debate PA
 
@@ -62,11 +59,12 @@ Programas de divorce/coparenting education y outcomes infantiles ([@crawford2014
 
 Comprensión de futuros maestros sobre hijos de familias divorciadas y autoeficacia ([@atiles2017preservicete]; [[2017-Atiles-preservice-teachers-understanding-of-children]]).
 
-### 2.6 Límites
+### 2.6 Límites y brecha SciELO
 
-- ERIC indexa mucha literatura de consejería/familia; no sustituye cohortes clínicas de PABs.
+- ERIC indexa mucha literatura de consejería/familia; no sustituye cohortes clínicas de PABs ([[Cap-02-02-Evaluacion-Medicion-PABs|Capítulo 2.2. Evaluación y medición: comportamientos parentales alienantes, escalas y peritaje]]).
 - «Alienation syndrome» histórico en ERIC ≠ alienación parental contemporánea.
-- Poca evidencia mexicana/LATAM en esta oleada ERIC.
+- **SciELO / escuela–PA:** el vault aún tiene capa delgada frente a ERIC; Portilla-Saavedra y Gomide aportan desde Chile/Brasil pero no protocolos escolares mexicanos.
+- Poca evidencia mexicana/LATAM en la oleada ERIC 2026-09-18.
 
 ---
 
@@ -115,36 +113,12 @@ El menor cambia de mochila y de reglas dos veces por semana; el pupitre es el ú
 Archivo: `metodologia/eric-search-vinculos.json`.
 
 
-## Oleada de evidencia (2026-09-18)
+## Fuentes integradas (núcleo en prosa)
 
-| Citekey | Stem | Nivel | Score |
-|---------|------|-------|-------|
-| [@miralles2021longtermemot] | [[2021-Miralles-long-term-emotional-consequences-of-parental]] | alta | 70 |
-| [@turner2023theeffective] | [[2023-Turner-the-effectiveness-of-online-divorce-education]] | media | 47 |
-| [@little2020romanticrela] | [[2020-Little-romantic-relationship-satisfaction-and-parent]] | media | 36 |
-| [@anon2016resiliencean] | [[2016-Anon-resilience-and-rejection-sensitivity-mediate]] | media | 25 |
-| [@atiles2017preservicete] | [[2017-Atiles-preservice-teachers-understanding-of-children]] | media | 25 |
-| [@anon2011childrenofdi] | [[2011-Anon-children-of-divorce-the-differential-diagnosi]] | media | 25 |
-| [@beekman1986helpingchild] | [[1986-Beekman-helping-children-cope-with-divorce-the-school]] | media | 25 |
-| [@anon1990preschoolage] | [[1990-Anon-preschool-age-children-of-divorce-transitiona]] | media | 25 |
-| [@nisivoccia1997theinfluence] | [[1997-Nisivoccia-the-influence-of-parental-separation-and-divo]] | media | 25 |
-| [@connolly2009evidencebase] | [[2009-Connolly-evidence-based-counseling-interventions-with]] | media | 25 |
-| [@anon2009parentaldivo] | [[2009-Anon-parental-divorce-and-adult-children-s-attachm]] | media | 25 |
-| [@anon1978medicalpsych] | [[1978-Anon-medical-psychologic-and-legal-aspects-of-chil]] | media | 25 |
-| [@tas2019schoolattach] | [[2019-Tas-school-attachment-and-video-game-addiction-of]] | media | 25 |
-| [@wadsby1996academicachi] | [[1996-Wadsby-academic-achievement-in-children-of-divorce]] | media | 25 |
-| [@becher2022divorceandpr] | [[2022-Becher-divorce-and-predictors-of-child-outcomes-the]] | media | 25 |
-| [@adams1989theeffectsof] | [[1989-Adams-the-effects-of-divorce-on-achievement-behavio]] | media | 25 |
-| [@anon2003parentalalig] | [[2003-Anon-parental-alignments-and-rejection-an-empirica]] | media | 25 |
-| [@anon1987theassessmen] | [[1987-Anon-the-assessment-of-custody-and-access-disputes]] | media | 25 |
-| [@anon2019parentaldivo] | [[2019-Anon-parental-divorce-is-associated-with-an-increa]] | media | 25 |
-| [@modecki2014latentprofil] | [[2014-Modecki-latent-profiles-of-nonresidential-father-enga]] | media | 23 |
-| [@anon2017predictorsof] | [[2017-Anon-predictors-of-psychological-evaluation-recomm]] | baja | 20 |
-| [@li2026doeseducatio] | [[2026-Li-does-educational-assortative-mating-matter-pa]] | media | 11 |
-
-## Fuentes integradas
-
-Oleada ERIC 2026-09-18 (24 digests ingeridos). Ver stems en frontmatter.
+- Logro / escuela: [@guidubaldi1983theimpactofp] · [@wadsby1996academicachi] · [@beausang2012youngpeoplew] · [@molepo2010teacherratin] —ver FM completo (27 stems).
+- Consejería: [@beekman1986helpingchild] · [@connolly2009evidencebase] · [@schmidt2025helpingchild] · [@somody2007paperbagbook]
+- PA / controversia escolar: [@calabrese1987theidentific] · [@harman2022developmenta] · [@hale2006adolescentsp]
+- Coparentalidad / educación: [@crawford2014bufferingneg] · [@turner2023theeffective] · [@atiles2017preservicete]
 
 ## Enlaces relacionados
 

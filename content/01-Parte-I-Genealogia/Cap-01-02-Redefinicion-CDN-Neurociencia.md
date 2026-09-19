@@ -2,7 +2,7 @@
 title: "Redefinición operativa: Derechos del Niño y neurociencia del apego"
 obra: "Vinculos-Fracturados"
 lastmod: 2026-09-18
-conocimiento: 103
+conocimiento: 80
 ejes:
 nivel_evidencia_global: media
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: media
 # Capítulo 1.2. Redefinición operativa: Derechos del Niño y neurociencia del apego
 
 <!-- sync:version-badge -->
-> **v1.3** · conocimiento **103** · actualizado **2026-09-18**
+> **v1.3** · conocimiento **80** · actualizado **2026-09-18**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo

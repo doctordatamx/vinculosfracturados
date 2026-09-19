@@ -112,6 +112,37 @@ El controlador no siempre grita: a veces **administra el aire** del hogar y del 
 - ¿Tasas base de alegaciones fundadas vs. infundadas en custodia local?
 - ¿Cómo depurar el corpus de falsos positivos (*food parenting*)?
 
+
+## Oleada de evidencia (2026-09-18)
+
+| Citekey | Stem | Nivel | Score |
+|---------|------|-------|-------|
+| [@anon2024item] | [[2024-Anon-item-3]] | alta | 103 |
+| [@anon2025adversechild2] | [[2025-Anon-adverse-childhood-experiences-and-loneliness]] | alta | 85 |
+| [@artetxe2026violenciadeg] | [[2026-Artetxe-violencia-de-genero-respuesta-escolar-y-parti]] | media | 79 |
+| [@anon2026measuringpsy] | [[2026-Anon-measuring-psychologically-abusive-behaviors-i]] | alta | 75 |
+| [@larsen2022alongitudina] | [[2022-Larsen-a-longitudinal-study-on-changes-in-food-paren]] | media | 70 |
+| [@anon2023asystematicr] | [[2023-Anon-a-systematic-review-of-children-s-perspective]] | alta | 70 |
+| [@anon2024interparenta] | [[2024-Anon-interparental-coercive-control-and-child-and]] | alta | 70 |
+| [@oliveira2026bidirectiona] | [[2026-Oliveira-bidirectional-associations-between-fathers-fo]] | media | 70 |
+| [@tutty2025beyondthecom] | [[2025-Tutty-beyond-the-composite-abuse-scale-what-women-e]] | media | 68 |
+| [@gonzaleztorres2023validationof] | [[2023-Gonzalez-Torres-validation-of-the-scale-on-parental-feeding-b]] | media | 66 |
+| [@han2024currentappro] | [[2024-Han-current-approaches-addressing-oral-health-pra]] | media | 64 |
+| [@iezadi2021developmentv] | [[2021-Iezadi-development-validation-and-pilot-implementati]] | media | 64 |
+| [@bradshaw2023intimatepart] | [[2023-Bradshaw-intimate-partner-violence-survivors-perspecti]] | media | 64 |
+| [@o2025suspensionco] | [[2025-O-suspension-condicional-del-proceso-estandar-p]] | media | 60 |
+| [@derech2026derechoalare] | [[2026-Derech-derecho-a-la-reinsercion-social-no-constituye]] | media | 60 |
+| [@anon2023whenstatevio] | [[2023-Anon-when-state-violence-comes-home-from-criminal]] | media | 59 |
+| [@anon2024parentsuseof] | [[2024-Anon-parent-s-use-of-coercive-control-practices-wi]] | media | 59 |
+| [@daruwalla2020prevalenceof] | [[2020-Daruwalla-prevalence-of-domestic-violence-against-women]] | media | 58 |
+| [@lo2026associations] | [[2026-Lo-associations-between-father-mother-food-paren]] | media | 58 |
+| [@meland2023parentalalie] | [[2023-Meland-parental-alienation-a-valid-experience]] | media | 54 |
+| [@bouchard2022cumulativech] | [[2022-Bouchard-cumulative-childhood-trauma-communication-pat]] | media | 54 |
+| [@selwyn2015adolescentto] | [[2015-Selwyn-adolescent-to-parent-violence-in-adoptive-fam]] | media | 54 |
+| [@anon2015aselfreportm] | [[2015-Anon-a-self-report-measure-of-legal-and-administra]] | media | 53 |
+| [@chen2021parentingsty] | [[2021-Chen-parenting-styles-food-parenting-practices-and]] | media | 48 |
+| [@lyon2008coachingtrut] | [[2008-Lyon-coaching-truth-induction-and-young-maltreated]] | media | 48 |
+
 ## Fuentes integradas (núcleo en prosa)
 
 - Coerción/IPV: [@anon2024interparenta] · [@anon2026measuringpsy] · [@kanougiya2021predictorsof] · [@anon2015aselfreportm] · [@anon2026theassociati]

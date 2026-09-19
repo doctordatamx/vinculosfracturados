@@ -2,7 +2,7 @@
 title: "Alto conflicto, terapia familiar y reunificación"
 obra: "Vinculos-Fracturados"
 lastmod: 2026-09-18
-conocimiento: 80
+conocimiento: 83
 ejes:
 nivel_evidencia_global: media
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: media
 # Capítulo 3.3. Alto conflicto, terapia familiar y reunificación
 
 <!-- sync:version-badge -->
-> **v1.0** · conocimiento **80** · actualizado **2026-09-18**
+> **v1.1** · conocimiento **83** · actualizado **2026-09-18**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -37,29 +37,42 @@ El «alto conflicto» no es un diagnóstico: es un **clima** donde la coparental
 
 ## 2. Evidencia científica / documental
 
-> **Nivel global:** media (cualitativo sólido; ensayos controlados escasos en reunificación).
+> **Nivel global:** media (cualitativo sólido, marcos clínicos, revisiones narrativas; RCT escasos en reunificación litigiosa).
 
-### 2.1 Dinámica del alto conflicto
+### 2.1 Dinámica del alto conflicto y desarrollo infantil
 
-Stolnicu et al. enriquecen la conceptualización del coparenting de alto conflicto post-divorcio como proceso dinámico, cruzando conocimiento científico y práctica ([@stolnicu2022healingthese]; [[2022-Stolnicu-healing-the-separation-in-high-conflict-post]]). La lectura del vault: el conflicto no es un evento; es un **sistema** que se alimenta.
+Stolnicu et al. conceptualizan el coparenting post-divorcio de alto conflicto como proceso dinámico ([@stolnicu2022healingthese]; [[2022-Stolnicu-healing-the-separation-in-high-conflict-post]]). Visser et al. muestran cómo el conflicto se mantiene o escala en redes sociales del divorcio ([@visser2017illneverforg]; [[2017-Visser-i-ll-never-forgive-you-high-conflict-divorce]]). La tradición «Children of Armageddon» advierte amenazas al desarrollo en divorcio crónico ([@anon1998childrenofar]; [[1998-Anon-children-of-armageddon-common-developmental-t]]). Mahrer et al. preguntan si la coparentalidad compartida ayuda o daña en familias de alto conflicto —evidencia mixta, no receta ([@mahrer2018doessharedpa]; [[2018-Mahrer-does-shared-parenting-help-or-hurt-children-i]]). Tipologías clásicas de divorcio contencioso ([@anon1994highconflict]; [[1994-Anon-high-conflict-divorce]]; [@anon1990astudyoffami]; [[1990-Anon-a-study-of-families-in-high-conflict-custody]]) anclan el clima, no el síndrome.
 
-### 2.2 Experiencia parental del contacto erosionado
+### 2.2 PCCP: contacto erosionado y siguiente frontera
 
-El estudio fenomenológico de Guyette–Harris muestra que, mientras la relación sigue activa, dominan la impotencia y la desconfianza hacia terceros; cuando se resuelve, aparecen profesionales útiles, coparentalidad más alineada y tiempo ([@guyette2025pccp]; [[2025-Guyette-Harris-PCCP-strained-parent-child]]).
+Guyette–Harris documentan, en progenitores con vínculo tenso, impotencia, límites de la ayuda profesional y barreras del otro cuidador; en casos resueltos, profesionales útiles y coparentalidad más alineada ([@guyette2025pccp]; [[2025-Guyette-Harris-PCCP-strained-parent-child]]). Feltman sitúa los problemas de contacto progenitor-hijo como **frontera** clínica que exige marco descriptivo y estándares de intervención ([@feltman2026thenextfront]; [[2026-Feltman-the-next-frontier-of-parent-child-contact-pro]]). Contact refusal tras separación acrimoniosa ([@anon2013contactrefus]; [[2013-Anon-contact-refusal-by-children-following-acrimon]]) conecta con [[Cap-03-01-Lealtad-Memoria-Gatekeeping|Capítulo 3.1. Lealtad forzada, manipulación de la memoria y gatekeeping]].
 
-### 2.3 Reunificación narrada (no forzada)
+### 2.3 Intervenciones: coordinación, familia, alto conflicto
 
-Adultos que fueron niños alienados y progenitores blanco describen reunificación voluntaria: el objetivo del estudio es la experiencia, no una tasa de «éxito» forense ([@matthewson2023aqualitative]; [[2023-Matthewson-a-qualitative-exploration-of-reunification-po]]). Un marco integrativo reciente reconsidera la reunificación frente a dinámicas de resistir/rehusar el contacto, advirtiendo los desafíos clínicos ([@anon2025reunificatio]; [[2025-Anon-reunification-reconsidered-presenting-an-inte]]).
+Rautio et al. revisan intervenciones en divorcios/separaciones de alto conflicto ([@rautio2025intervention]; [[2025-Rautio-interventions-in-high-conflict-divorces-separ]]). Parenting coordination aplica pensamiento clínico a litigios crónicos ([@anon2016parentingcoo]; [[2016-Anon-parenting-coordination-applying-clinical-thin]]). Terapia familiar integrativa ([@anon2007integrativef]; [[2007-Anon-integrative-family-therapy-for-high-conflict]]), reducción de conflicto interparental ([@anon2012reducinginte]; [[2012-Anon-reducing-interparental-conflict-among-parents]]), de-escalada y re-engagement ([@anon2020ataskanalysi]; [[2020-Anon-a-task-analysis-of-client-re-engagement-thera]]), educación parental temprana ([@anon2024acallforearl]; [[2024-Anon-a-call-for-early-effective-and-scalable-paren]]). «It takes a village» para domar alto conflicto ([@anon2016ittakesavill]; [[2016-Anon-it-takes-a-village-taming-high-conflict-with]]).
 
-### 2.4 Salud mental del adolescente
+### 2.4 Reunificación: voluntaria, reconsiderada, RT vs. integración
 
-Lim y Kim vinculan alienación percibida con depresión adolescente en trayectorias parentales ([@lim2025korea]; [[2025-Lim-Kim-parental-alienation-adolescent-depression-Korea]]). El puente terapéutico: tratar el clima de alienación como mecanismo transmisor de sufrimiento, no como etiqueta única.
+Matthewson et al. exploran reunificación **voluntaria** desde adultos alienados de niño y progenitores «blanco» ([@matthewson2023aqualitative]; [[2023-Matthewson-a-qualitative-exploration-of-reunification-po]]). Marco integrativo «reunification reconsidered» frente a resistencia al contacto ([@anon2025reunificatio]; [[2025-Anon-reunification-reconsidered-presenting-an-inte]]). Alan contrasta *reunification therapy* con terapia de integración familiar —distinción de modelo, no de slogan ([@alan2020reunificatio]; [[2020-Alan-reunification-therapy-versus-family-integrati]]). Terapia familiar basada en familia para reunificación progenitor-hijo ([@anon2016familybasedt]; [[2016-Anon-family-based-therapy-for-parent-child-reunifi]]); tratamiento psicosocial histórico de PA ([@anon2011thepsychosoc]; [[2011-Anon-the-psychosocial-treatment-of-parental-aliena]]). Bolaños describe abordajes psicolegales hispanos ([@bolanos2002sap]; [[2002-Bolanos-SAP-descripcion-abordajes-psicolegales]]).
 
-### 2.5 Límites
+### 2.5 Síntomas, custodia y salud mental adolescente
 
-- «Reunificación» en literatura de protección infantil (abuso/negligencia) ≠ reunificación en alienación; no mezclar outcomes.  
-- Escasa evidencia experimental de programas coercitivos.  
-- Evaluaciones de custodia y terapia deben permanecer **roles separados** ([[Cap-03-05-Evaluacion-Custodia-Forense|Capítulo 3.5. Evaluación de custodia y peritaje forense]]).
+Lim y Kim: depresión parental → alienación percibida → depresión adolescente ([@lim2025korea]; [[2025-Lim-Kim-parental-alienation-adolescent-depression-Korea]]). Conflicto parental y TEPT en hijos ([@anon2022parentalconf]; [[2022-Anon-parental-conflicts-and-posttraumatic-stress-o]]); custodia y sintomatología en perfiles latentes ([@anon2021custodyandch]; [[2021-Anon-custody-and-child-symptomatology-in-high-conf]]); sintomatología física/psicológica y coparentalidad ([@anon2024physicalandp]; [[2024-Anon-physical-and-psychological-symptomatology-co]]).
+
+### 2.6 Evaluación ≠ terapia; peritaje en el margen
+
+Parámetros de evaluación de custodia ([@anon1997practicepara]; [[1997-Anon-practice-parameters-for-child-custody-evaluat]]); proceso e informe ([@chung2020custodyevalu]; [[2020-Chung-custody-evaluation-process-and-report-writing]]); competencia de expertos ante alegaciones de abuso ([@anon2023howexpertare]; [[2023-Anon-how-expert-are-the-experts-child-custody-eval]]). **Regla:** quien evalúa para el juzgado no debe ser terapeuta de reunificación del mismo expediente ([[Cap-03-05-Evaluacion-Custodia-Forense|Capítulo 3.5. Evaluación de custodia y peritaje forense]]).
+
+### 2.7 Nota de corpus (reunificación en protección infantil)
+
+Entradas sobre reunificación post-**maltrato/negligencia**, opioides, prisión o inmigración no acompañada ([@connell2009maltreatment]; [[2009-Connell-maltreatment-following-reunification-predicto]]; [@sanmartin2020parentaldrug]; [[2020-Sanmartin-parental-drug-use-and-family-reunification]]; [@constantino2023reducingabus]; [[2023-Constantino-reducing-abuse-and-neglect-recurrence-among-y]]) son **ruido** para el eje litigio familiar ordinario —outcomes y riesgos distintos.
+
+### 2.8 Límites e IPV
+
+- Escasa evidencia experimental de reunificación **coercitiva** ordenada por tribunal.  
+- IPV documentada: reunificación sin evaluación de seguridad revictimiza ([[Cap-04-03-IPV-Custodia-Denuncias|Capítulo 4.3. Violencia de pareja, custodia y denuncias: protección, instrumentalización y doble riesgo]] · [[Cap-03-04-Control-Coercitivo-Familia|Capítulo 3.4. Control coercitivo, familia y custodia]]).  
+- Shared parenting en alto conflicto: evidencia mixta ([@mahrer2018doessharedpa]).  
+- Northey et al. abren número especial sobre trabajo con familias en conflicto ([@northey2025introduction]; [[2025-Northey-introduction-to-the-special-issue-on-working]]).
 
 ---
 
@@ -89,38 +102,13 @@ Perdón impuesto es otra forma de *damnatio*: borrar el miedo para limpiar el ex
 4. Documentar PABs (comportamientos parentales alienantes) cuando existan ([[Cap-02-02-Evaluacion-Medicion-PABs|Capítulo 2.2. Evaluación y medición: comportamientos parentales alienantes, escalas y peritaje]]).
 
 
-## Oleada de evidencia (2026-09-18)
+## Fuentes integradas (núcleo en prosa)
 
-Integración batch priorizada por calidad metodológica heurística (meta/sysrev > longitudinal/psicometría > empírico > doctrina).
-
-| Citekey | Stem | Nivel | Score |
-|---------|------|-------|-------|
-| [@bolanos2002sap] | [[2002-Bolanos-SAP-descripcion-abordajes-psicolegales]] | media | 50 |
-| [@guyette2025pccp] | [[2025-Guyette-Harris-PCCP-strained-parent-child]] | media | 50 |
-| [@lim2025korea] | [[2025-Lim-Kim-parental-alienation-adolescent-depression-Korea]] | media | 50 |
-| [@matthewson2023aqualitative] | [[2023-Matthewson-a-qualitative-exploration-of-reunification-po]] | media | 46 |
-| [@chung2020custodyevalu] | [[2020-Chung-custody-evaluation-process-and-report-writing]] | baja | 41 |
-| [@lee2020theconceptan] | [[2020-Lee-the-concept-and-historical-background-of-cust]] | media | 36 |
-| [@northey2025introduction] | [[2025-Northey-introduction-to-the-special-issue-on-working]] | media | 36 |
-| [@anon2023howexpertare] | [[2023-Anon-how-expert-are-the-experts-child-custody-eval]] | baja | 30 |
-| [@pena2020forensicpsyc] | [[2020-Pena-forensic-psychiatry-assessment-during-parenta]] | media | 30 |
-| [@anon1997practicepara] | [[1997-Anon-practice-parameters-for-child-custody-evaluat]] | media | 25 |
-
-_Detalle en digests `01-Fuentes/papers/`. No se inventan hallazgos ausentes del abstract/clip._
-
-
-## Fuentes integradas
-
-- [@bolanos2002sap] · [[2002-Bolanos-SAP-descripcion-abordajes-psicolegales]]
-- [@guyette2025pccp] · [[2025-Guyette-Harris-PCCP-strained-parent-child]]
-- [@lim2025korea] · [[2025-Lim-Kim-parental-alienation-adolescent-depression-Korea]]
-- [@matthewson2023aqualitative] · [[2023-Matthewson-a-qualitative-exploration-of-reunification-po]]
-- [@chung2020custodyevalu] · [[2020-Chung-custody-evaluation-process-and-report-writing]]
-- [@lee2020theconceptan] · [[2020-Lee-the-concept-and-historical-background-of-cust]]
-- [@northey2025introduction] · [[2025-Northey-introduction-to-the-special-issue-on-working]]
-- [@anon2023howexpertare] · [[2023-Anon-how-expert-are-the-experts-child-custody-eval]]
-- [@pena2020forensicpsyc] · [[2020-Pena-forensic-psychiatry-assessment-during-parenta]]
-- [@anon1997practicepara] · [[1997-Anon-practice-parameters-for-child-custody-evaluat]]
+- Alto conflicto / desarrollo: [@visser2017illneverforg] · [@stolnicu2022healingthese] · [@anon1998childrenofar] · [@mahrer2018doessharedpa]
+- PCCP / contacto: [@guyette2025pccp] · [@feltman2026thenextfront] · [@anon2013contactrefus]
+- Intervenciones: [@rautio2025intervention] · [@anon2016parentingcoo] · [@anon2007integrativef] · [@anon2012reducinginte] · [@anon2020ataskanalysi]
+- Reunificación: [@matthewson2023aqualitative] · [@anon2025reunificatio] · [@alan2020reunificatio] · [@anon2016familybasedt] · [@bolanos2002sap]
+- Síntomas / evaluación: [@lim2025korea] · [@anon2022parentalconf] · [@anon2021custodyandch] · [@chung2020custodyevalu] · [@anon2023howexpertare]
 
 ## Enlaces relacionados
 

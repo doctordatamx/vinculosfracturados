@@ -2,7 +2,7 @@
 title: "Evaluación de custodia y peritaje forense"
 obra: "Vinculos-Fracturados"
 lastmod: 2026-09-18
-conocimiento: 44
+conocimiento: 50
 ejes:
 nivel_evidencia_global: media
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: media
 # Capítulo 3.5. Evaluación de custodia y peritaje forense
 
 <!-- sync:version-badge -->
-> **v1.2** · conocimiento **44** · actualizado **2026-09-18**
+> **v1.2** · conocimiento **50** · actualizado **2026-09-18**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
